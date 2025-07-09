@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="16.050331mm"
+   height="24.572689mm"
+   viewBox="0 0 16.050331 24.572689"
+   version="1.1"
+   id="svg36"
+   inkscape:version="1.1.1 (c3084ef, 2021-09-22)"
+   sodipodi:docname="hsc.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview38"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="mm"
+     showgrid="false"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0"
+     inkscape:zoom="4.7571549"
+     inkscape:cx="18.393347"
+     inkscape:cy="109.20393"
+     inkscape:window-width="2638"
+     inkscape:window-height="1561"
+     inkscape:window-x="1494"
+     inkscape:window-y="390"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="g144" />
+  <defs
+     id="defs33">
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath152">
+      <path
+         d="M 1374.77,553 V 31.3281 h 535.71 V 553 Z"
+         id="path150" />
+    </clipPath>
+  </defs>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-102.00472,-135.05956)">
+    <g
+       id="g144"
+       transform="matrix(0.03527778,0,0,-0.03527778,51.967778,153.70898)">
+      <g
+         id="g146"
+         inkscape:export-filename="/Users/renau/g146.png"
+         inkscape:export-xdpi="996.02002"
+         inkscape:export-ydpi="996.02002">
+        <g
+           id="g148"
+           clip-path="url(#clipPath152)">
+          <path
+             d="m 1418.37,522.633 h 454.97 V 60.0391 H 1418.37 V 515"
+             style="fill:#264281;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             id="path154" />
+          <path
+             d="M 1693.54,528.645 V 284.973 l 126.66,47.398 V 527.98"
+             style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             id="path156" />
+          <path
+             d="M 1472.96,433.047 V 199.375 l 96.82,37.852 v 242.414 l -96.82,-46.594"
+             style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             id="path158" />
+          <path
+             d="m 1577.79,234.309 75.71,24.707 V 58.0977 h -75.71 V 234.309"
+             style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             id="path160" />
+        </g>
+      </g>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-weight:normal;font-size:240px;line-height:1.25;font-family:sans-serif;fill:#264281;fill-opacity:1;stroke:none;stroke-width:7.5"
+         x="1426.2144"
+         y="164.50519"
+         id="text1882"
+         transform="scale(1,-1)"
+         inkscape:export-filename="/Users/renau/g146.png"
+         inkscape:export-xdpi="996.02002"
+         inkscape:export-ydpi="996.02002"><tspan
+           sodipodi:role="line"
+           id="tspan1880"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:240px;font-family:Hack;-inkscape-font-specification:'Hack Bold';fill:#264281;fill-opacity:1;stroke-width:7.5"
+           x="1426.2144"
+           y="164.50519">HSC</tspan></text>
+    </g>
+  </g>
+</svg>

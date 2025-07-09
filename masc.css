@@ -1,0 +1,205 @@
+
+td.left_shadow  { background: url(images/shadow_l.png) repeat-y; }
+td.right_shadow { background: url(images/shadow_r.png) repeat-y; }
+
+	body,td			{ font-family: 'Open Sans', sans-serif; font-size: 14px; }
+	.small			{ font-family: 'Open Sans', sans-serif; font-size: 12px; color: #666666; }
+	.scriptsize		{ font-family: 'Open Sans', sans-serif; font-size: 4px; color: #666666; }
+	.main   		{
+		font-size: 16px;
+		color: #666666;
+		line-height: 20px;
+        font-family: 'Open Sans', sans-serif;
+    }
+
+	.main strong { color: #636363; font-family: 'Open Sans', sans-serif; }
+
+	.mainbold   		{
+		font-size: 14px;
+		color: #222222;
+		line-height: 20px;
+		font-family: "Open Sans", sans-serif;
+	}
+	.menu			{
+	font-family: "Open Sans", sans-serif;
+	font-size: 12px;
+	color: #666666;
+	font-weight: bold;
+}
+	.medium			{ font-family: 'Open Sans', sans-serif; font-size: 14px; }			
+	A:link			{ text-decoration: none; color: #003399; }
+	A:visited		{ text-decoration: none; color: #003399; }
+	A:hover			{ text-decoration: underline; color: #000000; }
+	A:link.leftlink		{ text-decoration: none; color: #003399; }
+	A:visited.leftlink	{ text-decoration: none; color: #003399; }
+	A:hover.leftlink	{ text-decoration: underline; color: #000000; }
+	.xsmall			{
+	font-family: 'Open Sans', sans-serif;
+	font-size: 9px;
+	color: #000000;
+	line-height: normal;
+}
+    .xmain   		{
+	font-size: 12px;
+	color: #666666;
+	font-family: 'Open Sans',sans-serif;
+}
+	.mainbig   		{ font-size: 14px; color: #666666; }
+	.head   		{
+	font-family: "Open Sans", sans-serif;
+	font-size: 18px;
+	color: #666666;
+	font-weight: bold;
+	letter-spacing: -1px;
+
+}
+.headbig   		{
+	font-family: "Open Sans", sans-serif;
+	font-size: 22px;
+	color: #333333;
+	font-weight: bold;
+	letter-spacing: -1px;
+
+}
+.headsmall   		{
+	font-family: "Open Sans", sans-serif;
+	font-size: 18px;
+	color: #636363;
+	font-weight: bold;
+	letter-spacing: -1px;
+
+}
+
+/* Responsive Design for Mobile Devices */
+@media screen and (max-width: 768px) {
+    /* Make tables responsive */
+    table[width="1024"] {
+        width: 100% !important;
+        max-width: 100% !important;
+        margin: 0 auto;
+    }
+    
+    /* Increase font sizes for mobile */
+    body, td {
+        font-size: 16px !important;
+    }
+    
+    .main {
+        font-size: 18px !important;
+        line-height: 24px !important;
+    }
+    
+    .mainbold {
+        font-size: 16px !important;
+        line-height: 22px !important;
+    }
+    
+    .menu {
+        font-size: 14px !important;
+    }
+    
+    .small {
+        font-size: 14px !important;
+    }
+    
+    .xsmall {
+        font-size: 12px !important;
+    }
+    
+    .xmain {
+        font-size: 14px !important;
+    }
+    
+    .head {
+        font-size: 20px !important;
+    }
+    
+    .headbig {
+        font-size: 24px !important;
+    }
+    
+    .headsmall {
+        font-size: 18px !important;
+    }
+    
+    /* Make images responsive */
+    img {
+        max-width: 100%;
+        height: auto;
+    }
+    
+    /* Adjust header logos for mobile */
+    table[width="1024"] img {
+        max-width: 100%;
+        height: auto;
+    }
+    
+    /* Better spacing for mobile */
+    td {
+        padding: 5px !important;
+    }
+    
+    /* Make navigation more mobile-friendly */
+    .menu a {
+        display: inline-block;
+        margin: 2px 4px;
+        padding: 4px 8px;
+        text-decoration: none;
+        border-radius: 3px;
+        background-color: #f0f0f0;
+    }
+    
+    .menu a:hover {
+        background-color: #e0e0e0;
+    }
+}
+
+@media screen and (max-width: 480px) {
+    /* Even larger fonts for small phones */
+    body, td {
+        font-size: 18px !important;
+    }
+    
+    .main {
+        font-size: 20px !important;
+        line-height: 26px !important;
+    }
+    
+    .mainbold {
+        font-size: 18px !important;
+        line-height: 24px !important;
+    }
+    
+    .menu {
+        font-size: 16px !important;
+    }
+    
+    .head {
+        font-size: 22px !important;
+    }
+    
+    .headbig {
+        font-size: 26px !important;
+    }
+    
+    /* Stack navigation vertically on very small screens */
+    .menu a {
+        display: block;
+        margin: 2px 0;
+        text-align: center;
+    }
+    
+    /* Reduce header logo sizes */
+    table[width="1024"] img[width="184"] {
+        width: 140px !important;
+    }
+    
+    table[width="1024"] img[width="150"] {
+        width: 120px !important;
+    }
+    
+    table[width="1024"] img[width="64"] {
+        width: 50px !important;
+    }
+}
+

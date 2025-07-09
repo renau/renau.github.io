@@ -1,0 +1,1113 @@
+
+<!doctype html>
+<html lang="en" class="no-js">
+  <head>
+    
+      <meta charset="utf-8">
+      <meta name="viewport" content="width=device-width,initial-scale=1">
+      
+      
+      
+      
+      <link rel="icon" href="../../assets/images/favicon.png">
+      <meta name="generator" content="mkdocs-1.2.2, mkdocs-material-7.2.2">
+    
+    
+      
+        <title>Variables and types - LiveHD and Pyrope</title>
+      
+    
+    
+      <link rel="stylesheet" href="../../assets/stylesheets/main.1118c9be.min.css">
+      
+        
+        <link rel="stylesheet" href="../../assets/stylesheets/palette.ba0d045b.min.css">
+        
+      
+    
+    
+    
+      
+        
+        <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+        <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=:300,400,400i,700%7CFira+Code&display=fallback">
+        <style>:root{--md-text-font-family:"";--md-code-font-family:"Fira Code"}</style>
+      
+    
+    
+    
+    
+      
+
+
+    
+    
+  </head>
+  
+  
+    
+    
+      
+    
+    
+    
+    
+    <body dir="ltr" data-md-color-scheme="slate" data-md-color-primary="" data-md-color-accent="">
+  
+    
+    <script>function __prefix(e){return new URL("../..",location).pathname+"."+e}function __get(e,t=localStorage){return JSON.parse(t.getItem(__prefix(e)))}</script>
+    
+      <script>var palette=__get("__palette");if(null!==palette&&"object"==typeof palette.color)for(var key in palette.color)document.body.setAttribute("data-md-color-"+key,palette.color[key])</script>
+    
+    <input class="md-toggle" data-md-toggle="drawer" type="checkbox" id="__drawer" autocomplete="off">
+    <input class="md-toggle" data-md-toggle="search" type="checkbox" id="__search" autocomplete="off">
+    <label class="md-overlay" for="__drawer"></label>
+    <div data-md-component="skip">
+      
+        
+        <a href="#variables-and-types" class="md-skip">
+          Skip to content
+        </a>
+      
+    </div>
+    <div data-md-component="announce">
+      
+    </div>
+    
+      <header class="md-header" data-md-component="header">
+  <nav class="md-header__inner md-grid" aria-label="Header">
+    <a href="../.." title="LiveHD and Pyrope" class="md-header__button md-logo" aria-label="LiveHD and Pyrope" data-md-component="logo">
+      
+  <img src="../../assets/pyrope5.png" alt="logo">
+
+    </a>
+    <label class="md-header__button md-icon" for="__drawer">
+      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M3 6h18v2H3V6m0 5h18v2H3v-2m0 5h18v2H3v-2z"/></svg>
+    </label>
+    <div class="md-header__title" data-md-component="header-title">
+      <div class="md-header__ellipsis">
+        <div class="md-header__topic">
+          <span class="md-ellipsis">
+            LiveHD and Pyrope
+          </span>
+        </div>
+        <div class="md-header__topic" data-md-component="header-topic">
+          <span class="md-ellipsis">
+            
+              Variables and types
+            
+          </span>
+        </div>
+      </div>
+    </div>
+    
+      <form class="md-header__option" data-md-component="palette">
+        
+          
+          
+          <input class="md-option" data-md-color-media="(prefers-color-scheme: dark)" data-md-color-scheme="slate" data-md-color-primary="" data-md-color-accent=""  aria-label="Switch to light mode"  type="radio" name="__palette" id="__palette_1">
+          
+            <label class="md-header__button md-icon" title="Switch to light mode" for="__palette_2" hidden>
+              <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M17 7H7a5 5 0 0 0-5 5 5 5 0 0 0 5 5h10a5 5 0 0 0 5-5 5 5 0 0 0-5-5m0 8a3 3 0 0 1-3-3 3 3 0 0 1 3-3 3 3 0 0 1 3 3 3 3 0 0 1-3 3z"/></svg>
+            </label>
+          
+        
+          
+          
+          <input class="md-option" data-md-color-media="(prefers-color-scheme: light)" data-md-color-scheme="default" data-md-color-primary="" data-md-color-accent=""  aria-label="Switch to dark mode"  type="radio" name="__palette" id="__palette_2">
+          
+            <label class="md-header__button md-icon" title="Switch to dark mode" for="__palette_1" hidden>
+              <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M7 10a2 2 0 0 1 2 2 2 2 0 0 1-2 2 2 2 0 0 1-2-2 2 2 0 0 1 2-2m10-3a5 5 0 0 1 5 5 5 5 0 0 1-5 5H7a5 5 0 0 1-5-5 5 5 0 0 1 5-5h10M7 9a3 3 0 0 0-3 3 3 3 0 0 0 3 3h10a3 3 0 0 0 3-3 3 3 0 0 0-3-3H7z"/></svg>
+            </label>
+          
+        
+      </form>
+    
+    
+    
+      <label class="md-header__button md-icon" for="__search">
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M9.5 3A6.5 6.5 0 0 1 16 9.5c0 1.61-.59 3.09-1.56 4.23l.27.27h.79l5 5-1.5 1.5-5-5v-.79l-.27-.27A6.516 6.516 0 0 1 9.5 16 6.5 6.5 0 0 1 3 9.5 6.5 6.5 0 0 1 9.5 3m0 2C7 5 5 7 5 9.5S7 14 9.5 14 14 12 14 9.5 12 5 9.5 5z"/></svg>
+      </label>
+      
+<div class="md-search" data-md-component="search" role="dialog">
+  <label class="md-search__overlay" for="__search"></label>
+  <div class="md-search__inner" role="search">
+    <form class="md-search__form" name="search">
+      <input type="text" class="md-search__input" name="query" aria-label="Search" placeholder="Search" autocapitalize="off" autocorrect="off" autocomplete="off" spellcheck="false" data-md-component="search-query" required>
+      <label class="md-search__icon md-icon" for="__search">
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M9.5 3A6.5 6.5 0 0 1 16 9.5c0 1.61-.59 3.09-1.56 4.23l.27.27h.79l5 5-1.5 1.5-5-5v-.79l-.27-.27A6.516 6.516 0 0 1 9.5 16 6.5 6.5 0 0 1 3 9.5 6.5 6.5 0 0 1 9.5 3m0 2C7 5 5 7 5 9.5S7 14 9.5 14 14 12 14 9.5 12 5 9.5 5z"/></svg>
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M20 11v2H8l5.5 5.5-1.42 1.42L4.16 12l7.92-7.92L13.5 5.5 8 11h12z"/></svg>
+      </label>
+      <nav class="md-search__options" aria-label="Search">
+        
+        <button type="reset" class="md-search__icon md-icon" aria-label="Clear" tabindex="-1">
+          <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M19 6.41 17.59 5 12 10.59 6.41 5 5 6.41 10.59 12 5 17.59 6.41 19 12 13.41 17.59 19 19 17.59 13.41 12 19 6.41z"/></svg>
+        </button>
+      </nav>
+      
+    </form>
+    <div class="md-search__output">
+      <div class="md-search__scrollwrap" data-md-scrollfix>
+        <div class="md-search-result" data-md-component="search-result">
+          <div class="md-search-result__meta">
+            Initializing search
+          </div>
+          <ol class="md-search-result__list"></ol>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+    
+    
+      <div class="md-header__source">
+        
+<a href="https://github.com/masc-ucsc/livehd" title="Go to repository" class="md-source" data-md-component="source">
+  <div class="md-source__icon md-icon">
+    
+    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512"><path d="M439.55 236.05 244 40.45a28.87 28.87 0 0 0-40.81 0l-40.66 40.63 51.52 51.52c27.06-9.14 52.68 16.77 43.39 43.68l49.66 49.66c34.23-11.8 61.18 31 35.47 56.69-26.49 26.49-70.21-2.87-56-37.34L240.22 199v121.85c25.3 12.54 22.26 41.85 9.08 55a34.34 34.34 0 0 1-48.55 0c-17.57-17.6-11.07-46.91 11.25-56v-123c-20.8-8.51-24.6-30.74-18.64-45L142.57 101 8.45 235.14a28.86 28.86 0 0 0 0 40.81l195.61 195.6a28.86 28.86 0 0 0 40.8 0l194.69-194.69a28.86 28.86 0 0 0 0-40.81z"/></svg>
+  </div>
+  <div class="md-source__repository">
+    GitHub
+  </div>
+</a>
+      </div>
+    
+  </nav>
+</header>
+    
+    <div class="md-container" data-md-component="container">
+      
+      
+        
+      
+      <main class="md-main" data-md-component="main">
+        <div class="md-main__inner md-grid">
+          
+            
+              
+              <div class="md-sidebar md-sidebar--primary" data-md-component="sidebar" data-md-type="navigation" >
+                <div class="md-sidebar__scrollwrap">
+                  <div class="md-sidebar__inner">
+                    
+
+
+<nav class="md-nav md-nav--primary" aria-label="Navigation" data-md-level="0">
+  <label class="md-nav__title" for="__drawer">
+    <a href="../.." title="LiveHD and Pyrope" class="md-nav__button md-logo" aria-label="LiveHD and Pyrope" data-md-component="logo">
+      
+  <img src="../../assets/pyrope5.png" alt="logo">
+
+    </a>
+    LiveHD and Pyrope
+  </label>
+  
+    <div class="md-nav__source">
+      
+<a href="https://github.com/masc-ucsc/livehd" title="Go to repository" class="md-source" data-md-component="source">
+  <div class="md-source__icon md-icon">
+    
+    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512"><path d="M439.55 236.05 244 40.45a28.87 28.87 0 0 0-40.81 0l-40.66 40.63 51.52 51.52c27.06-9.14 52.68 16.77 43.39 43.68l49.66 49.66c34.23-11.8 61.18 31 35.47 56.69-26.49 26.49-70.21-2.87-56-37.34L240.22 199v121.85c25.3 12.54 22.26 41.85 9.08 55a34.34 34.34 0 0 1-48.55 0c-17.57-17.6-11.07-46.91 11.25-56v-123c-20.8-8.51-24.6-30.74-18.64-45L142.57 101 8.45 235.14a28.86 28.86 0 0 0 0 40.81l195.61 195.6a28.86 28.86 0 0 0 40.8 0l194.69-194.69a28.86 28.86 0 0 0 0-40.81z"/></svg>
+  </div>
+  <div class="md-source__repository">
+    GitHub
+  </div>
+</a>
+    </div>
+  
+  <ul class="md-nav__list" data-md-scrollfix>
+    
+      
+      
+      
+
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../.." class="md-nav__link">
+        LiveHD and Pyrope
+      </a>
+    </li>
+  
+
+    
+      
+      
+      
+
+  
+  
+  
+    
+      
+    
+    <li class="md-nav__item md-nav__item--section md-nav__item--nested">
+      
+      
+        <input class="md-nav__toggle md-toggle" data-md-toggle="__nav_2" type="checkbox" id="__nav_2" >
+      
+      <label class="md-nav__link" for="__nav_2">
+        Livehd
+        <span class="md-nav__icon md-icon"></span>
+      </label>
+      <nav class="md-nav" aria-label="Livehd" data-md-level="1">
+        <label class="md-nav__title" for="__nav_2">
+          <span class="md-nav__icon md-icon"></span>
+          Livehd
+        </label>
+        <ul class="md-nav__list" data-md-scrollfix>
+          
+            
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../livehd/01-install/" class="md-nav__link">
+        Installation
+      </a>
+    </li>
+  
+
+          
+            
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../livehd/01-usage/" class="md-nav__link">
+        Getting started
+      </a>
+    </li>
+  
+
+          
+            
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../livehd/02-lgraph/" class="md-nav__link">
+        LGraph
+      </a>
+    </li>
+  
+
+          
+            
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../livehd/03-lnast/" class="md-nav__link">
+        LNAST
+      </a>
+    </li>
+  
+
+          
+            
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../livehd/03c-mmapstr/" class="md-nav__link">
+        mmap_lib::str
+      </a>
+    </li>
+  
+
+          
+            
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../livehd/04a-bazel/" class="md-nav__link">
+        Bazel build
+      </a>
+    </li>
+  
+
+          
+            
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../livehd/04b-pass/" class="md-nav__link">
+        Creating a Pass
+      </a>
+    </li>
+  
+
+          
+            
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../livehd/04c-github/" class="md-nav__link">
+        GitHub Guide
+      </a>
+    </li>
+  
+
+          
+            
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../livehd/04d-style/" class="md-nav__link">
+        Coding Style
+      </a>
+    </li>
+  
+
+          
+        </ul>
+      </nav>
+    </li>
+  
+
+    
+      
+      
+      
+
+  
+  
+    
+  
+  
+    
+      
+    
+    <li class="md-nav__item md-nav__item--active md-nav__item--section md-nav__item--nested">
+      
+      
+        <input class="md-nav__toggle md-toggle" data-md-toggle="__nav_3" type="checkbox" id="__nav_3" checked>
+      
+      <label class="md-nav__link" for="__nav_3">
+        Pyrope
+        <span class="md-nav__icon md-icon"></span>
+      </label>
+      <nav class="md-nav" aria-label="Pyrope" data-md-level="1">
+        <label class="md-nav__title" for="__nav_3">
+          <span class="md-nav__icon md-icon"></span>
+          Pyrope
+        </label>
+        <ul class="md-nav__list" data-md-scrollfix>
+          
+            
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../" class="md-nav__link">
+        Introduction
+      </a>
+    </li>
+  
+
+          
+            
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../02-basics/" class="md-nav__link">
+        Basics
+      </a>
+    </li>
+  
+
+          
+            
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../03-bundle/" class="md-nav__link">
+        Bundles
+      </a>
+    </li>
+  
+
+          
+            
+  
+  
+    
+  
+  
+    <li class="md-nav__item md-nav__item--active">
+      
+      <input class="md-nav__toggle md-toggle" data-md-toggle="toc" type="checkbox" id="__toc">
+      
+      
+        
+      
+      
+        <label class="md-nav__link md-nav__link--active" for="__toc">
+          Variables and types
+          <span class="md-nav__icon md-icon"></span>
+        </label>
+      
+      <a href="./" class="md-nav__link md-nav__link--active">
+        Variables and types
+      </a>
+      
+        
+<nav class="md-nav md-nav--secondary" aria-label="Table of contents">
+  
+  
+  
+    
+  
+  
+    <label class="md-nav__title" for="__toc">
+      <span class="md-nav__icon md-icon"></span>
+      Table of contents
+    </label>
+    <ul class="md-nav__list" data-md-component="toc" data-md-scrollfix>
+      
+        <li class="md-nav__item">
+  <a href="#mutableimmutable" class="md-nav__link">
+    Mutable/Immutable
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#variable-modifiers" class="md-nav__link">
+    Variable modifiers
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#comptime" class="md-nav__link">
+    comptime
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#debug" class="md-nav__link">
+    debug
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#basic-type-annotations" class="md-nav__link">
+    Basic type annotations
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#operators" class="md-nav__link">
+    Operators
+  </a>
+  
+    <nav class="md-nav" aria-label="Operators">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#unary-operators" class="md-nav__link">
+    Unary operators
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#binary-operators" class="md-nav__link">
+    Binary operators
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#reduce-and-bit-selection-operators" class="md-nav__link">
+    Reduce and bit selection operators
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#operator-with-bundles" class="md-nav__link">
+    Operator with bundles
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#precedence" class="md-nav__link">
+    Precedence
+  </a>
+  
+</li>
+      
+    </ul>
+  
+</nav>
+      
+    </li>
+  
+
+          
+            
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../05-assert/" class="md-nav__link">
+        Assertions
+      </a>
+    </li>
+  
+
+          
+            
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../06-functions/" class="md-nav__link">
+        Functions and methods
+      </a>
+    </li>
+  
+
+          
+            
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../06b-pipelining/" class="md-nav__link">
+        Pipelining
+      </a>
+    </li>
+  
+
+          
+            
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../07-typesystem/" class="md-nav__link">
+        Type system
+      </a>
+    </li>
+  
+
+          
+            
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../09-stdlib/" class="md-nav__link">
+        Pyrope std lib
+      </a>
+    </li>
+  
+
+          
+        </ul>
+      </nav>
+    </li>
+  
+
+    
+  </ul>
+</nav>
+                  </div>
+                </div>
+              </div>
+            
+            
+              
+              <div class="md-sidebar md-sidebar--secondary" data-md-component="sidebar" data-md-type="toc" >
+                <div class="md-sidebar__scrollwrap">
+                  <div class="md-sidebar__inner">
+                    
+<nav class="md-nav md-nav--secondary" aria-label="Table of contents">
+  
+  
+  
+    
+  
+  
+    <label class="md-nav__title" for="__toc">
+      <span class="md-nav__icon md-icon"></span>
+      Table of contents
+    </label>
+    <ul class="md-nav__list" data-md-component="toc" data-md-scrollfix>
+      
+        <li class="md-nav__item">
+  <a href="#mutableimmutable" class="md-nav__link">
+    Mutable/Immutable
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#variable-modifiers" class="md-nav__link">
+    Variable modifiers
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#comptime" class="md-nav__link">
+    comptime
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#debug" class="md-nav__link">
+    debug
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#basic-type-annotations" class="md-nav__link">
+    Basic type annotations
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#operators" class="md-nav__link">
+    Operators
+  </a>
+  
+    <nav class="md-nav" aria-label="Operators">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#unary-operators" class="md-nav__link">
+    Unary operators
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#binary-operators" class="md-nav__link">
+    Binary operators
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#reduce-and-bit-selection-operators" class="md-nav__link">
+    Reduce and bit selection operators
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#operator-with-bundles" class="md-nav__link">
+    Operator with bundles
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#precedence" class="md-nav__link">
+    Precedence
+  </a>
+  
+</li>
+      
+    </ul>
+  
+</nav>
+                  </div>
+                </div>
+              </div>
+            
+          
+          <div class="md-content" data-md-component="content">
+            <article class="md-content__inner md-typeset">
+              
+                
+                
+                <h1 id="variables-and-types">Variables and types</h1>
+<p>A variable is an instance of a given type. The type may be inferred from use.
+The basic types are Number, String, Boolean, Functions, and Bundles.  All the
+types are build around these basic types.</p>
+<h2 id="mutableimmutable">Mutable/Immutable</h2>
+<p>Variables are immutable by default and bundle fields are mutable by default.
+There are 3 keywords to handle mutability:</p>
+<ul>
+<li><code>var</code> is used to declare mutable variables.</li>
+<li><code>let</code> is used to declare immutable variables.</li>
+<li><code>mut</code> is used to modify mutable variables. The <code>mut</code> keyword is not needed when there is a op= assignment.</li>
+<li><code>set</code> is used to potentially add new fields to a mutable bundle.</li>
+</ul>
+<div class="highlight"><pre><span></span><code>a  = 3
+a  = 4         // compile error, &#39;a&#39; is immutable
+a += 1         // compile error, &#39;a&#39; is immutable
+
+var b  = 3
+mut b  = 5     // OK
+    b  = 5     // compile error, &#39;b&#39; is already declared as mutable
+    b += 1     // OK, OP= assumes mutable
+mut b += 1     // OK, mut is not needed in this case
+
+var c=(x=1,let b=2, mut d=3) // mut d is redundant
+mut c.x   = 3  // OK
+mut x.foo = 2  // compile error, bundle &#39;x&#39; does not have field &#39;foo&#39;
+set x.foo = 3  // OK
+mut c.b   = 10 // compile error, &#39;c.b&#39; is immutable
+
+let d=(x=1, let y=2)
+mut d.x   = 2  // OK
+set d.foo = 3  // compile error, bundle &#39;d&#39; is immutable
+mut d.y   = 4  // compile error, &#39;d.y&#39; is immutable
+</code></pre></div>
+<p>Bundles can be mutable. This means that fields and subfields can be added with
+successive statements.</p>
+<div class="highlight"><pre><span></span><code>var a.foo = (a=1,b=2)
+mut a.bar = 3
+set a.foo ++= (c=4)
+assert a.foo.c == 4
+</code></pre></div>
+<h2 id="variable-modifiers">Variable modifiers</h2>
+<p>The first character[s] in the variable modify/indicate the behavior:</p>
+<ul>
+<li><code>$</code>: for inputs, all the inputs are immutable. E.g: <code>$inp</code></li>
+<li><code>%</code>: for outputs, all the outputs are mutable. E.g: <code>%out</code></li>
+<li><code>#</code>: for registers, all the registers are mutable. E.g: <code>#reg</code></li>
+<li><code>_</code>: for private variables. It is a recommendation, not enforced by the compiler.</li>
+</ul>
+<div class="highlight"><pre><span></span><code>%out = #counter
+if $enable {
+  #counter = (#counter + 1) &amp; 0xFF
+}
+</code></pre></div>
+<h2 id="comptime">comptime</h2>
+<p>Pyrope borrows the <code>comptime</code> keyword and functionality from Zig. Variables, or expressions,
+can be declared compile time constants or <code>comptime</code>. This means that the value must be 
+constant at compile time or an error is generated.</p>
+<div class="highlight"><pre><span></span><code>let comptime a = 1     // obviously comptime
+var comptime b = a + 2 // OK too
+let comptime c = $rand // compile error, &#39;c&#39; can not be computed at compile time
+</code></pre></div>
+<p>The <code>comptime</code> directive considers values propagated across modules.</p>
+<h2 id="debug">debug</h2>
+<p>In software and more commonly in hardware, it is common to have extra statements
+to debug the code. These statements can be more than plain assertions, they can also
+include code.</p>
+<p>The <code>debug</code> attribute marks a mutable or immutable variable. At synthesis, all
+the statements that use a <code>debug</code> can be removed. <code>debug</code> variables can read
+from non debug variables, but non-debug variables can not read from <code>debug</code>.
+This guarantees that <code>debug</code> variables, or statements, do not have any
+side-effect beyond debug statements.</p>
+<div class="highlight"><pre><span></span><code>var a = (debug b=2, c = 3) // a.b is a debug variable
+let debug c = 3
+</code></pre></div>
+<h2 id="basic-type-annotations">Basic type annotations</h2>
+<p>Global type inference and unlimited precision allows to avoid most of the
+types. Pyrope allows to declare types. The types have two main uses, they
+behave like assertions, and they allow function polymorphism.</p>
+<div class="highlight"><pre><span></span><code>var a:u120    // a is an unsigned value with up to 120bits, initialized to zero
+
+var x:s3 = 0  // x is a signed value with 3 bits (-4 to 3)
+mut x = 3     // OK
+mut x = 4     // compile error, &#39;4&#39; overflows the maximum allowed value of &#39;x&#39;
+
+var person = (
+  ,name:string // empty string by default
+  ,age:u8      // zero by default
+)
+
+var b
+b ++= (1,2)
+b ++= (3,4)
+
+assert b == (1,2,3,4)
+</code></pre></div>
+<p>The basic type keywords provided by Pyrope:</p>
+<ul>
+<li><code>boolean</code>: true or false boolean. It can not be undefined (<code>0sb?</code>).</li>
+<li><code>string</code>: a string.</li>
+<li><code>{||}</code>: is a function without any statement which can be used as function type.</li>
+<li><code>unsigned</code>: an unlimited precision natural number.</li>
+<li><code>u&lt;num&gt;</code>: a natural number with a maximum value of <span class="arithmatex">\(2^{\texttt{num}}\)</span>. E.g: <code>u10</code> can go from zero to 1024.</li>
+<li><code>int</code>: an unlimited precision integer number.</li>
+<li><code>i&lt;num&gt;</code>: an integer 2s complement number with a maximum value of <span class="arithmatex">\(2^{\texttt{num}-1}-1\)</span> and a minimum of <span class="arithmatex">\(-2^{\texttt{num}}\)</span>.</li>
+</ul>
+<p>Each bundle is has a type, either implicit or explicit, and as such it can be
+used to declared a new type. The <code>type</code> keywords guarantees that a variable is
+just a type and not an instance.</p>
+<div class="highlight"><pre><span></span><code>var bund1 = (color:string, value:s33)
+var x:bund1          // OK
+bund1.color = &quot;red&quot;  // OK
+x.color     = &quot;blue&quot; // OK
+
+type typ = (color:string, value:s20)
+var y:typ            // OK
+typ.color = &quot;red&quot;    // compile errro
+y.color   = &quot;red&quot;    // OK
+</code></pre></div>
+<h2 id="operators">Operators</h2>
+<p>There are the typical basic operators found in most common languages with the
+exception exponent operations. The reason is that those are very hardware
+intensive and a library code should be used instead.</p>
+<p>All the operators work over signed integers.</p>
+<h3 id="unary-operators">Unary operators</h3>
+<ul>
+<li><code>!</code> or <code>not</code> logical negation</li>
+<li><code>~</code> bitwise negation</li>
+<li><code>-</code> arithmetic negation</li>
+</ul>
+<h3 id="binary-operators">Binary operators</h3>
+<ul>
+<li><code>+</code> addition</li>
+<li><code>-</code> substraction</li>
+<li><code>*</code> multiplication</li>
+<li><code>/</code> division</li>
+<li><code>and</code> logical and</li>
+<li><code>or</code> logical or</li>
+<li><code>implies</code> logical implication</li>
+<li><code>&amp;</code> bitwise and</li>
+<li><code>|</code> bitwise or</li>
+<li><code>^</code> bitwise or</li>
+<li><code>&gt;&gt;</code> shift right</li>
+<li><code>&lt;&lt;</code> shift left</li>
+</ul>
+<p>Most operations behave as expected when applied to signed unlimited precision integers. Logical
+and arithmetic operations can not be mixed.</p>
+<div class="highlight"><pre><span></span><code>x = a and b
+y = x + 1    // compile error: &#39;x&#39; is a boolean, &#39;1&#39; is not
+</code></pre></div>
+<h3 id="reduce-and-bit-selection-operators">Reduce and bit selection operators</h3>
+<p>The reduce operators and bit selection share a common syntax <code>@op[selection]</code>
+where there can be different operators (op) and/or bit selection.</p>
+<p>The valid operators:
+* <code>|</code>: or-reduce.
+* <code>&amp;</code>: and-reduce.
+* <code>^</code>: xor-reduce or parity check.
+* <code>+</code>: pop-count.
+* <code>sext</code>: Sign extend select bits.
+* <code>zext</code>: Zero sign extend select bits.</p>
+<p>If no operator is provided, a <code>zext</code> is used. The bit selection without
+operator can also be used on the left hand side to update a set of bits.
+The bit selector.</p>
+<p>The or/and/xor reduce have a single bit signed output (not boolean). This means
+that the result can be 0 (<code>0sb0</code>) or -1 (<code>0sb1</code>).</p>
+<div class="highlight"><pre><span></span><code>x = 0b10110
+y = 0s10110
+assert x@[0,2] == 0b10
+assert y@[100,200]     == 0b11 and x@[100,200]     == 0
+assert y@sext[100,200] ==   -1 and x@sext[100,200] == 0
+assert x@|[] == -1 
+assert x@&amp;[0,1] == 0
+assert x@+[] == 3 and y@+[] == 3
+
+var z     = 0b0110
+mut z@[0] = 1    // same as mut z@[0] = -1 
+assert z == 0b0111
+mut z@[0] = 0b11 // compile error, &#39;0b11` overflows the maximum allowed value of `z@[0]`
+</code></pre></div>
+<h3 id="operator-with-bundles">Operator with bundles</h3>
+<p>There are some operators that can also have bundles as input and/or outputs.</p>
+<ul>
+<li><code>++</code> concatenate two bundles</li>
+<li><code>&lt;&lt;</code> shift left. The bundle can be in the right hand side</li>
+<li><code>has</code> checks if a bundle has a field.</li>
+</ul>
+<p>The <code>&lt;&lt;</code> allows to have multiple values provided by a bundle on the right hand side or amount. This is useful
+to create one-hot encodings.</p>
+<div class="highlight"><pre><span></span><code>y = (a=1,b=2) ++ (c=3)
+assert y == (a=1,b=2,c=3)
+assert y has &#39;a&#39; and y has &#39;c&#39;
+
+x = 1&lt;&lt;(1,4,3)
+assert x == 0b01_1010
+</code></pre></div>
+<h2 id="precedence">Precedence</h2>
+<p>Pyrope has a very shallow precedence, unlike most other languages the
+programmer should explicitly indicate the precedence. The exception is for
+widely expected precedence.</p>
+<ul>
+<li>Unary operators (not,!,~,?) bind stronger than binary operators (+,++,-,*...)</li>
+<li>Always left-to-right evaluation.</li>
+<li>Comparators can be chained (a==c&lt;=d) same as (a==c and c&lt;=d)</li>
+<li>mult/div precedence is only against +,- operators.</li>
+<li>Parenthesis can be avoided when a expression only has variables (no function
+  calls) and the left-to-right has the same result as right-to-left.</li>
+</ul>
+<table>
+<thead>
+<tr>
+<th align="center">Priority</th>
+<th align="center">Category</th>
+<th align="right">Main operators in category</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="center">1</td>
+<td align="center">unary</td>
+<td align="right">not ! ~ ?</td>
+</tr>
+<tr>
+<td align="center">2</td>
+<td align="center">mult/div</td>
+<td align="right">*, /</td>
+</tr>
+<tr>
+<td align="center">3</td>
+<td align="center">other binary</td>
+<td align="right">..,^, &amp;, -,+, ++, --, &lt;&lt;, &gt;&gt;</td>
+</tr>
+<tr>
+<td align="center">4</td>
+<td align="center">comparators</td>
+<td align="right">&lt;, &lt;=, ==, !=, &gt;=, &gt;</td>
+</tr>
+<tr>
+<td align="center">5</td>
+<td align="center">logical</td>
+<td align="right">and, or, implies</td>
+</tr>
+</tbody>
+</table>
+<p>To reduce the number of parenthesis and increase the visual/structural
+organization, the newlines behave like inserting a parenthesis after the
+statement and the end of the line.</p>
+<div class="highlight"><pre><span></span><code>assert (x or !y) == (x or (!y) == (x or not y)
+assert (3*5+5) == ((3*5) + 5) == 3*5 + 5
+
+a = x1 or x2==x3 // same as b = x1 or (x2==x3)
+b = 3 &amp; 4 * 4    // compile error: use explicit precendence between &#39;&amp;&#39; and &#39;*&#39;
+c = 3
+  &amp; 4 * 4
+  &amp; 5 + 3        // OK, same as b = 3 &amp; (4*4) &amp; (5+3)
+d = 3 + 3 - 5    // OK, same result right-left
+
+// e = 1 | (5) &amp; (6) // precendence problem even with newlines
+e = 1
+  | 5
+  &amp; 6           // compile error: use explicit precendence between &#39;&amp;&#39; and &#39;|&#39;
+
+f = 1 &amp; 4
+  | 1 + 5
+  | 1           // OK, same as (1&amp;4) | (1+5) | (1)
+
+g = 1 + 3
+  * 1 + 2
+  + 5           // OK, same as (1+3) * (1+2) + (5)
+
+h = x or y and z// compile error: use explicit precedence between &#39;or&#39; and &#39;and&#39;
+
+i = a == 3 &lt;= b == d
+assert i == (a==3 and 3&lt;=b and b == d)
+</code></pre></div>
+                
+              
+              
+                
+
+
+              
+            </article>
+          </div>
+        </div>
+        
+      </main>
+      
+        
+<footer class="md-footer">
+  
+    <nav class="md-footer__inner md-grid" aria-label="Footer">
+      
+        
+        <a href="../03-bundle/" class="md-footer__link md-footer__link--prev" aria-label="Previous: Bundles" rel="prev">
+          <div class="md-footer__button md-icon">
+            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M20 11v2H8l5.5 5.5-1.42 1.42L4.16 12l7.92-7.92L13.5 5.5 8 11h12z"/></svg>
+          </div>
+          <div class="md-footer__title">
+            <div class="md-ellipsis">
+              <span class="md-footer__direction">
+                Previous
+              </span>
+              Bundles
+            </div>
+          </div>
+        </a>
+      
+      
+        
+        <a href="../05-assert/" class="md-footer__link md-footer__link--next" aria-label="Next: Assertions" rel="next">
+          <div class="md-footer__title">
+            <div class="md-ellipsis">
+              <span class="md-footer__direction">
+                Next
+              </span>
+              Assertions
+            </div>
+          </div>
+          <div class="md-footer__button md-icon">
+            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M4 11v2h12l-5.5 5.5 1.42 1.42L19.84 12l-7.92-7.92L10.5 5.5 16 11H4z"/></svg>
+          </div>
+        </a>
+      
+    </nav>
+  
+  <div class="md-footer-meta md-typeset">
+    <div class="md-footer-meta__inner md-grid">
+      <div class="md-footer-copyright">
+        
+        Made with
+        <a href="https://squidfunk.github.io/mkdocs-material/" target="_blank" rel="noopener">
+          Material for MkDocs
+        </a>
+        
+      </div>
+      
+    </div>
+  </div>
+</footer>
+      
+    </div>
+    <div class="md-dialog" data-md-component="dialog">
+      <div class="md-dialog__inner md-typeset"></div>
+    </div>
+    <script id="__config" type="application/json">{"base": "../..", "features": ["navigation.sections", "navigation.instant", "navigation.indexes"], "translations": {"clipboard.copy": "Copy to clipboard", "clipboard.copied": "Copied to clipboard", "search.config.lang": "en", "search.config.pipeline": "trimmer, stopWordFilter", "search.config.separator": "[\\s\\-]+", "search.placeholder": "Search", "search.result.placeholder": "Type to start searching", "search.result.none": "No matching documents", "search.result.one": "1 matching document", "search.result.other": "# matching documents", "search.result.more.one": "1 more on this page", "search.result.more.other": "# more on this page", "search.result.term.missing": "Missing", "select.version.title": "Select version"}, "search": "../../assets/javascripts/workers/search.709b4209.min.js", "version": null}</script>
+    
+    
+      <script src="../../assets/javascripts/bundle.2b46852b.min.js"></script>
+      
+        <script src="../../javascripts/config.js"></script>
+      
+        <script src="https://polyfill.io/v3/polyfill.min.js?features=es6"></script>
+      
+        <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"></script>
+      
+        <script src="https://unpkg.com/mermaid/dist/mermaid.min.js"></script>
+      
+    
+  </body>
+</html>
