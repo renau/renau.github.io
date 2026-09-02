@@ -17,13 +17,32 @@
       
       <item>
 	
+	<title>New Paper: Are Skills Enough? An Agentic Frequency Optimization View for Large Chips</title>
+        
+          <link>docs/iclad26.pdf</link>
+        
+	<description>Jiahan Xie, Sakshi Garg, Jose Renau. 2026 IEEE International Conference IEEE International Conference on LLM-Aided Design (<strong>ICLAD</strong>), July 2026.</description>
+	
+  <guid isPermaLink="false">http://masc.cse.ucsc.edu/masc_rss/2</guid>
+	
+        
+          
+	
+        <pubDate>Thu, 30 Jul 2026</pubDate>
+      </item>
+    
+      
+      
+      
+      <item>
+	
 	<title>NSF Medium Practical and Efficient Accelerators with High-Frequency Chiplets ($1000K)</title>
 	
 	<description>NSF grant with Scott Beamer and Baris Taskin on High-Frequency
 	</description>
 	
 	
-  <guid isPermaLink="false">http://masc.cse.ucsc.edu/masc_rss/2</guid>
+  <guid isPermaLink="false">http://masc.cse.ucsc.edu/masc_rss/3</guid>
 	
         
           
@@ -42,7 +61,7 @@
 	</description>
 	
 	
-  <guid isPermaLink="false">http://masc.cse.ucsc.edu/masc_rss/3</guid>
+  <guid isPermaLink="false">http://masc.cse.ucsc.edu/masc_rss/4</guid>
 	
         
           
@@ -61,7 +80,7 @@
         
 	<description>Farzaneh Rabiei Kashanaki, Mark Zakharov, Jose Renau. 2025 IEEE International Conference on Omni-Layer Intelligent Systems (<strong>COINS</strong>), August 2025.</description>
 	
-  <guid isPermaLink="false">http://masc.cse.ucsc.edu/masc_rss/4</guid>
+  <guid isPermaLink="false">http://masc.cse.ucsc.edu/masc_rss/5</guid>
 	
         
           
@@ -80,7 +99,7 @@
 	</description>
 	
 	
-  <guid isPermaLink="false">http://masc.cse.ucsc.edu/masc_rss/5</guid>
+  <guid isPermaLink="false">http://masc.cse.ucsc.edu/masc_rss/6</guid>
 	
         
           
@@ -99,7 +118,7 @@
         
 	<description>Mark Zakharov, Farzaneh Rabiei Kashanaki, Jose Renau. The First IEEE International Workshop on LLM-Aided Design (<strong>ISLAD</strong>), July 2024.</description>
 	
-  <guid isPermaLink="false">http://masc.cse.ucsc.edu/masc_rss/6</guid>
+  <guid isPermaLink="false">http://masc.cse.ucsc.edu/masc_rss/7</guid>
 	
         
           
@@ -118,7 +137,7 @@
         
 	<description>Mark Zakharov, Farzaneh Rabiei Kashanaki, Alex Lee, Milind Varma, Jose Renau. The First IEEE International Workshop on LLM-Aided Design (<strong>ISLAD poster</strong>), July 2024.</description>
 	
-  <guid isPermaLink="false">http://masc.cse.ucsc.edu/masc_rss/7</guid>
+  <guid isPermaLink="false">http://masc.cse.ucsc.edu/masc_rss/8</guid>
 	
         
           
@@ -137,7 +156,7 @@
         
 	<description>Jose Renau. ISCA@50 25-Year retrospective 1996-2020 (<strong>ISCA Retrospective</strong>), July 2023.</description>
 	
-  <guid isPermaLink="false">http://masc.cse.ucsc.edu/masc_rss/8</guid>
+  <guid isPermaLink="false">http://masc.cse.ucsc.edu/masc_rss/9</guid>
 	
         
           
@@ -156,7 +175,7 @@
         
 	<description>Sheng-Hong Wang, Hunter Coffman, Kenneth Mayer, Sakshi Garg, and Jose Renau. International Conference on Compiler Construction (<strong>CC</strong>), February 2023.</description>
 	
-  <guid isPermaLink="false">http://masc.cse.ucsc.edu/masc_rss/9</guid>
+  <guid isPermaLink="false">http://masc.cse.ucsc.edu/masc_rss/10</guid>
 	
         
           
@@ -175,7 +194,7 @@
         
 	<description>Nursultan Kabylkas, Tommy Thorn (Esperanto Technologies), Shreesha Srinath (Intel), Polychronis Xekalakis (Nvidia), and Jose Renau. 54th International Symposium on Microarchitecture (<strong>MICRO</strong>), October 2021.</description>
 	
-  <guid isPermaLink="false">http://masc.cse.ucsc.edu/masc_rss/10</guid>
+  <guid isPermaLink="false">http://masc.cse.ucsc.edu/masc_rss/11</guid>
 	
         
           
@@ -194,7 +213,7 @@
         
 	<description>Sheng-Hong Wang and Jose Renau, 1st Workshop on Languages, Tools, and Techniques for Accelerator Design (<strong>LATTE</strong>), April 2021.</description>
 	
-  <guid isPermaLink="false">http://masc.cse.ucsc.edu/masc_rss/11</guid>
+  <guid isPermaLink="false">http://masc.cse.ucsc.edu/masc_rss/12</guid>
 	
         
           
@@ -213,7 +232,7 @@
         
 	<description>Akash Sridhar, Nursultan Kabylkas, Jose Renau, (<strong>arvix</strong>), September 2020.</description>
 	
-  <guid isPermaLink="false">http://masc.cse.ucsc.edu/masc_rss/12</guid>
+  <guid isPermaLink="false">http://masc.cse.ucsc.edu/masc_rss/13</guid>
 	
         
           
@@ -232,7 +251,7 @@
         
 	<description>Jose Renau, Red Hat Research US 2020 (<strong>Talk</strong>), September 2020.</description>
 	
-  <guid isPermaLink="false">http://masc.cse.ucsc.edu/masc_rss/13</guid>
+  <guid isPermaLink="false">http://masc.cse.ucsc.edu/masc_rss/14</guid>
 	
         
           
@@ -251,7 +270,7 @@
         
 	<description>Sheng-Hong Wang, Rafael T. Possignolo, Haven Blake Skinner, and Jose Renau, IEEE Micro magazine (<strong>MICRO Magazine</strong>), June 2020.</description>
 	
-  <guid isPermaLink="false">http://masc.cse.ucsc.edu/masc_rss/14</guid>
+  <guid isPermaLink="false">http://masc.cse.ucsc.edu/masc_rss/15</guid>
 	
         
           
@@ -270,7 +289,7 @@
         
 	<description>Haven Skinner, Rafael T. Possignolo, Sheng-Hong Wang, and Jose Renau, International Symposium on Performance Analysis of Systems and Software (<strong>ISPASS</strong>), April 2020.</description>
 	
-  <guid isPermaLink="false">http://masc.cse.ucsc.edu/masc_rss/15</guid>
+  <guid isPermaLink="false">http://masc.cse.ucsc.edu/masc_rss/16</guid>
 	
         
           
@@ -289,7 +308,7 @@
         
 	<description>Sheng-Hong Wang, Rafael T. Possignolo, Qian Chen, Rohan Ganpati, and Jose Renau, Second Workshop on Open-Source EDA Technology (<strong>WOSET</strong>), November 2019.</description>
 	
-  <guid isPermaLink="false">http://masc.cse.ucsc.edu/masc_rss/16</guid>
+  <guid isPermaLink="false">http://masc.cse.ucsc.edu/masc_rss/17</guid>
 	
         
           
@@ -308,7 +327,7 @@
         
 	<description>Sheng-Hong Wang, Akash Sridhar, and Jose Renau, Second Workshop on Open-Source EDA Technology (<strong>WOSET</strong>), 2019.</description>
 	
-  <guid isPermaLink="false">http://masc.cse.ucsc.edu/masc_rss/17</guid>
+  <guid isPermaLink="false">http://masc.cse.ucsc.edu/masc_rss/18</guid>
 	
         
           
@@ -327,7 +346,7 @@
 	</description>
 	
 	
-  <guid isPermaLink="false">http://masc.cse.ucsc.edu/masc_rss/18</guid>
+  <guid isPermaLink="false">http://masc.cse.ucsc.edu/masc_rss/19</guid>
 	
         
           
@@ -346,7 +365,7 @@
         
 	<description>Daphne I. Gorman, Rafael T. Possignolo, and Jose Renau. 52th International Symposium on Microarchitecture (<strong>MICRO</strong>), October 2019.</description>
 	
-  <guid isPermaLink="false">http://masc.cse.ucsc.edu/masc_rss/19</guid>
+  <guid isPermaLink="false">http://masc.cse.ucsc.edu/masc_rss/20</guid>
 	
         
           
@@ -365,7 +384,7 @@
         
 	<description>Rafael T. Possignolo, and Jose Renau, Design Automation Conference (<strong>DAC</strong>), June 2019.</description>
 	
-  <guid isPermaLink="false">http://masc.cse.ucsc.edu/masc_rss/20</guid>
+  <guid isPermaLink="false">http://masc.cse.ucsc.edu/masc_rss/21</guid>
 	
         
           
@@ -384,7 +403,7 @@
         
 	<description>Jose Renau, Latch-Up conference (<strong>Latch-Up</strong>), May 2019.</description>
 	
-  <guid isPermaLink="false">http://masc.cse.ucsc.edu/masc_rss/21</guid>
+  <guid isPermaLink="false">http://masc.cse.ucsc.edu/masc_rss/22</guid>
 	
         
           
@@ -403,7 +422,7 @@
         
 	<description>Rafael T. Possignolo, Sheng Hong Wang, Haven Skinner, and Jose Renau. First Workshop on Open-Source EDA Technology (<strong>WOSET</strong>), November 2018.</description>
 	
-  <guid isPermaLink="false">http://masc.cse.ucsc.edu/masc_rss/22</guid>
+  <guid isPermaLink="false">http://masc.cse.ucsc.edu/masc_rss/23</guid>
 	
         
           
@@ -422,7 +441,7 @@
 	</description>
 	
 	
-  <guid isPermaLink="false">http://masc.cse.ucsc.edu/masc_rss/23</guid>
+  <guid isPermaLink="false">http://masc.cse.ucsc.edu/masc_rss/24</guid>
 	
         
           
@@ -441,7 +460,7 @@
         
 	<description>Rafael T. Possignolo, Elnaz Ebrahimi, Ehsan Ardestani, Alamelu Sankaranarayanan, Jose Luis Briz, Jose Renau. IEEE Transactions on Very Large Scale Integration Systems (<strong>TVLSI</strong>), 2018.</description>
 	
-  <guid isPermaLink="false">http://masc.cse.ucsc.edu/masc_rss/24</guid>
+  <guid isPermaLink="false">http://masc.cse.ucsc.edu/masc_rss/25</guid>
 	
         
           
@@ -460,7 +479,7 @@
         
 	<description>Haven Skinner, Rafael T. Possignolo, and Jose Renau. Second Workshop on Computer Architecture Research with RISC-V (<strong>CARRV</strong>), June 2018.</description>
 	
-  <guid isPermaLink="false">http://masc.cse.ucsc.edu/masc_rss/25</guid>
+  <guid isPermaLink="false">http://masc.cse.ucsc.edu/masc_rss/26</guid>
 	
         
           
@@ -479,7 +498,7 @@
         
 	<description>Daphne I. Gorman, Jose Renau, and Matthew Guthaus. Top Picks Honorable Mention (<strong>Top Picks Honorable</strong>), May 2018.</description>
 	
-  <guid isPermaLink="false">http://masc.cse.ucsc.edu/masc_rss/26</guid>
+  <guid isPermaLink="false">http://masc.cse.ucsc.edu/masc_rss/27</guid>
 	
         
           
@@ -498,7 +517,7 @@
         
 	<description>Jose Renau. The Asilomar Microcomputer Workshop, April 2018.</description>
 	
-  <guid isPermaLink="false">http://masc.cse.ucsc.edu/masc_rss/27</guid>
+  <guid isPermaLink="false">http://masc.cse.ucsc.edu/masc_rss/28</guid>
 	
         
           
@@ -517,7 +536,7 @@
         
 	<description>Jose Renau. Open publication (<strong>Technical Report</strong>), April 2018.</description>
 	
-  <guid isPermaLink="false">http://masc.cse.ucsc.edu/masc_rss/28</guid>
+  <guid isPermaLink="false">http://masc.cse.ucsc.edu/masc_rss/29</guid>
 	
         
           
@@ -536,7 +555,7 @@
         
 	<description>Rafael T. Possignolo, Elnaz Ebrahimi, Haven Skinner, Jose Renau. Advanced Logic Synthesis (<strong>Book Chapter</strong>), December 2017.</description>
 	
-  <guid isPermaLink="false">http://masc.cse.ucsc.edu/masc_rss/29</guid>
+  <guid isPermaLink="false">http://masc.cse.ucsc.edu/masc_rss/30</guid>
 	
         
           
@@ -555,7 +574,7 @@
         
 	<description>Haven Skinner, Rafael T. Possignolo, and Jose Renau. 15th ACM-IEEE International Conference on Formal Methods and Models for System Design (<strong>MEMOCODE</strong>), October 2017.</description>
 	
-  <guid isPermaLink="false">http://masc.cse.ucsc.edu/masc_rss/30</guid>
+  <guid isPermaLink="false">http://masc.cse.ucsc.edu/masc_rss/31</guid>
 	
         
           
@@ -574,7 +593,7 @@
         
 	<description>Daphne I. Gorman, Jose Renau, and Matthew Guthaus. 50th International Symposium on Microarchitecture (<strong>MICRO</strong>), October 2017.</description>
 	
-  <guid isPermaLink="false">http://masc.cse.ucsc.edu/masc_rss/31</guid>
+  <guid isPermaLink="false">http://masc.cse.ucsc.edu/masc_rss/32</guid>
 	
         
           
@@ -596,7 +615,7 @@
 	  HPCA 2017
 	</description>
 	
-  <guid isPermaLink="false">http://masc.cse.ucsc.edu/masc_rss/32</guid>
+  <guid isPermaLink="false">http://masc.cse.ucsc.edu/masc_rss/33</guid>
 	
         
           
@@ -613,7 +632,7 @@
         
 	<description>Rafael T. Possignolo and Elnaz Ebrahimi and Haven Skinner and Jose Renau. In Reis, André Inácio, Drechsler, Rolf (Eds.), Advanced Logic Synthesis (Springer), 2018.</description>
 	
-  <guid isPermaLink="false">http://masc.cse.ucsc.edu/masc_rss/33</guid>
+  <guid isPermaLink="false">http://masc.cse.ucsc.edu/masc_rss/34</guid>
 	
         
           
@@ -632,7 +651,7 @@
         
 	<description>Rafael T. Possignolo, Nursultan Kabylkas, and Jose Renau, International Workshop Logic and Synthesis (<strong>IWLS</strong>), June 2017.</description>
 	
-  <guid isPermaLink="false">http://masc.cse.ucsc.edu/masc_rss/34</guid>
+  <guid isPermaLink="false">http://masc.cse.ucsc.edu/masc_rss/35</guid>
 	
         
           
@@ -651,7 +670,7 @@
         
 	<description>Rafael T. Possignolo, and Jose Renau, Design Automation Conference (<strong>DAC</strong>), June 2017.</description>
 	
-  <guid isPermaLink="false">http://masc.cse.ucsc.edu/masc_rss/35</guid>
+  <guid isPermaLink="false">http://masc.cse.ucsc.edu/masc_rss/36</guid>
 	
         
           
@@ -670,7 +689,7 @@
         
 	<description>Elnaz Ebrahimi, Matthew Guthaus, and Jose Renau, International Symposium on Circuits and Systems (<strong>ISCAS</strong>), May 2017.</description>
 	
-  <guid isPermaLink="false">http://masc.cse.ucsc.edu/masc_rss/36</guid>
+  <guid isPermaLink="false">http://masc.cse.ucsc.edu/masc_rss/37</guid>
 	
         
           
@@ -689,7 +708,7 @@
         
 	<description>Elnaz Ebrahimi, Rafael T. Possignolo, and Jose Renau, International Symposium on Circuits and Systems (<strong>ISCAS</strong>), May 2017.</description>
 	
-  <guid isPermaLink="false">http://masc.cse.ucsc.edu/masc_rss/37</guid>
+  <guid isPermaLink="false">http://masc.cse.ucsc.edu/masc_rss/38</guid>
 	
         
           
@@ -708,7 +727,7 @@
         
 	<description>Rafael T. Possignolo, Jose Renau, Hot Chips A Symposium on High Performance Chips (HotChips poster), August 2016.</description>
 	
-  <guid isPermaLink="false">http://masc.cse.ucsc.edu/masc_rss/38</guid>
+  <guid isPermaLink="false">http://masc.cse.ucsc.edu/masc_rss/39</guid>
 	
         
           
@@ -727,7 +746,7 @@
         
 	<description>Gabriel Southern and Jose Renau, International Symposium on Workload Characterization (<strong>IISWC</strong>), July 2016.</description>
 	
-  <guid isPermaLink="false">http://masc.cse.ucsc.edu/masc_rss/39</guid>
+  <guid isPermaLink="false">http://masc.cse.ucsc.edu/masc_rss/40</guid>
 	
         
           
@@ -746,7 +765,7 @@
         
 	<description>Rafael T. Possignolo, Elnaz Ebrahimi, Haven Skinner, and Jose Renau, International Conference on Computer Design (<strong>ICCD</strong>), June 2016.</description>
 	
-  <guid isPermaLink="false">http://masc.cse.ucsc.edu/masc_rss/40</guid>
+  <guid isPermaLink="false">http://masc.cse.ucsc.edu/masc_rss/41</guid>
 	
         
           
@@ -765,7 +784,7 @@
         
 	<description>Rafael T. Possignolo, Elnaz Ebrahimi, Haven Skinner, and Jose Renau, International Workshop on Logic and Synthesis (<strong>IWLS</strong>), April 2016.</description>
 	
-  <guid isPermaLink="false">http://masc.cse.ucsc.edu/masc_rss/41</guid>
+  <guid isPermaLink="false">http://masc.cse.ucsc.edu/masc_rss/42</guid>
 	
         
           
@@ -784,7 +803,7 @@
         
 	<description>Elnaz Ebrahimi, Rafael T. Possignolo, and Jose Renau, International Symposium on Circuits and Systems (<strong>ISCAS</strong>), May 2016.</description>
 	
-  <guid isPermaLink="false">http://masc.cse.ucsc.edu/masc_rss/42</guid>
+  <guid isPermaLink="false">http://masc.cse.ucsc.edu/masc_rss/43</guid>
 	
         
           
@@ -803,7 +822,7 @@
         
 	<description>Gabriel Southern and Jose Renau, International Symposium on Performance Analysis of Systems and Software (<strong>ISPASS</strong>), April 2016.</description>
 	
-  <guid isPermaLink="false">http://masc.cse.ucsc.edu/masc_rss/43</guid>
+  <guid isPermaLink="false">http://masc.cse.ucsc.edu/masc_rss/44</guid>
 	
         
           
@@ -822,7 +841,7 @@
         
 	<description>Sina Hassani, Gabriel Southern and Jose Renau, International Symposium on High-Performance Computer Architecture (<strong>HPCA</strong>), February 2016.</description>
 	
-  <guid isPermaLink="false">http://masc.cse.ucsc.edu/masc_rss/44</guid>
+  <guid isPermaLink="false">http://masc.cse.ucsc.edu/masc_rss/45</guid>
 	
         
           
@@ -841,7 +860,7 @@
 	</description>
 	
 	
-  <guid isPermaLink="false">http://masc.cse.ucsc.edu/masc_rss/45</guid>
+  <guid isPermaLink="false">http://masc.cse.ucsc.edu/masc_rss/46</guid>
 	
         
           
@@ -860,7 +879,7 @@
         
 	<description>Rafael T. Possignolo, Ehsan Ardestani, Alamelu Sankaranarayanan, Jose Luis Briz, Jose Renau, International Conference on Parallel Architectures and Compilation Techniques (PACT poster), October 2015.</description>
 	
-  <guid isPermaLink="false">http://masc.cse.ucsc.edu/masc_rss/46</guid>
+  <guid isPermaLink="false">http://masc.cse.ucsc.edu/masc_rss/47</guid>
 	
         
           
@@ -879,7 +898,7 @@
         
 	<description>Gabriel Southern and Jose Renau, Workshop on Duplicating, Deconstructing and Debunking (<strong>WDDD</strong>), 2015.</description>
 	
-  <guid isPermaLink="false">http://masc.cse.ucsc.edu/masc_rss/47</guid>
+  <guid isPermaLink="false">http://masc.cse.ucsc.edu/masc_rss/48</guid>
 	
         
           
@@ -898,7 +917,7 @@
         
 	<description>Ehsan K. Ardestani, Rafael T. Possignolo, Jose Luis Briz, and Jose Renau, ACM's Transactions on Architecture and Code Optimization (<strong>TACO</strong>), September 2015.</description>
 	
-  <guid isPermaLink="false">http://masc.cse.ucsc.edu/masc_rss/48</guid>
+  <guid isPermaLink="false">http://masc.cse.ucsc.edu/masc_rss/49</guid>
 	
         
           
@@ -917,7 +936,7 @@
         
 	<description>Madan Das, Gabriel Southern and Jose Renau, ACM's Transactions on Architecture and Code Organization (<strong>TACO</strong>), 2015.</description>
 	
-  <guid isPermaLink="false">http://masc.cse.ucsc.edu/masc_rss/49</guid>
+  <guid isPermaLink="false">http://masc.cse.ucsc.edu/masc_rss/50</guid>
 	
         
           
@@ -936,7 +955,7 @@
         
 	<description>Madan Das, Gabriel Southern, and Jose Renau, 20th ACM SIGPLAN Symposium on Principles and Practice of Parallel Programming (<strong>PPoPP Poster</strong>), February 2015</description>
 	
-  <guid isPermaLink="false">http://masc.cse.ucsc.edu/masc_rss/50</guid>
+  <guid isPermaLink="false">http://masc.cse.ucsc.edu/masc_rss/51</guid>
 	
         
           
@@ -955,7 +974,7 @@
         
 	<description>Gabriel Southern, Madan Das, and Jose Renau, Workshop on Determinism and Correctness in Parallel Programming (<strong>WODET</strong>), March 2013.</description>
 	
-  <guid isPermaLink="false">http://masc.cse.ucsc.edu/masc_rss/51</guid>
+  <guid isPermaLink="false">http://masc.cse.ucsc.edu/masc_rss/52</guid>
 	
         
           
@@ -974,7 +993,7 @@
         
 	<description>Madan Das, Gabriel Southern, and Jose Renau, Workshop on Determinism and Correctness in Parallel Programming (<strong>WODET</strong>), March 2013.</description>
 	
-  <guid isPermaLink="false">http://masc.cse.ucsc.edu/masc_rss/52</guid>
+  <guid isPermaLink="false">http://masc.cse.ucsc.edu/masc_rss/53</guid>
 	
         
           
@@ -993,7 +1012,7 @@
         
 	<description>Amirkoushyar Ziabari, Je-Hyoung Park, Ehsan K. Ardestani, Jose Renau, Sung-Mo Kang, and Ali Shakouri IEEE Transactions on Very Large Scale Integration Systems (<strong>TVLSI</strong>), 2013.</description>
 	
-  <guid isPermaLink="false">http://masc.cse.ucsc.edu/masc_rss/53</guid>
+  <guid isPermaLink="false">http://masc.cse.ucsc.edu/masc_rss/54</guid>
 	
         
           
@@ -1012,7 +1031,7 @@
 	</description>
 	
 	
-  <guid isPermaLink="false">http://masc.cse.ucsc.edu/masc_rss/54</guid>
+  <guid isPermaLink="false">http://masc.cse.ucsc.edu/masc_rss/55</guid>
 	
         
           
@@ -1031,7 +1050,7 @@
 	</description>
 	
 	
-  <guid isPermaLink="false">http://masc.cse.ucsc.edu/masc_rss/55</guid>
+  <guid isPermaLink="false">http://masc.cse.ucsc.edu/masc_rss/56</guid>
 	
         
           
@@ -1050,7 +1069,7 @@
 	</description>
 	
 	
-  <guid isPermaLink="false">http://masc.cse.ucsc.edu/masc_rss/56</guid>
+  <guid isPermaLink="false">http://masc.cse.ucsc.edu/masc_rss/57</guid>
 	
         
           
@@ -1069,7 +1088,7 @@
         
 	<description>Ehsan K.Ardestani, Gabriel Southern, Jason Doung, Elnaz Ebrahimi, Jose Renau, Hot Chips A Symposium on High Performance Chips (<strong>HotChips poster</strong>), August 2013.</description>
 	
-  <guid isPermaLink="false">http://masc.cse.ucsc.edu/masc_rss/57</guid>
+  <guid isPermaLink="false">http://masc.cse.ucsc.edu/masc_rss/58</guid>
 	
         
           
@@ -1088,7 +1107,7 @@
         
 	<description>Alamelu Sankaranarayanan, Ehsan K.Ardestani, Jose Luis Briz, and Jose Renau, International Symposium on Low Power Electronics and Design (<strong>ISLPED</strong>), September 2013.</description>
 	
-  <guid isPermaLink="false">http://masc.cse.ucsc.edu/masc_rss/58</guid>
+  <guid isPermaLink="false">http://masc.cse.ucsc.edu/masc_rss/59</guid>
 	
         
           
@@ -1107,7 +1126,7 @@
         
 	<description>Ehsan K.Ardestani, Francisco J.  Mesa-Martinez , Gabriel Southern , Elnaz Ebrahimi , Jose Renau IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (<strong>TCAD</strong>), August 2013.</description>
 	
-  <guid isPermaLink="false">http://masc.cse.ucsc.edu/masc_rss/59</guid>
+  <guid isPermaLink="false">http://masc.cse.ucsc.edu/masc_rss/60</guid>
 	
         
           
@@ -1126,7 +1145,7 @@
         
 	<description>Ehsan K.Ardestani, and Jose Renau, International Symposium on High-Performance Computer Architecture (<strong>HPCA</strong>), February 2013.</description>
 	
-  <guid isPermaLink="false">http://masc.cse.ucsc.edu/masc_rss/60</guid>
+  <guid isPermaLink="false">http://masc.cse.ucsc.edu/masc_rss/61</guid>
 	
         
           
@@ -1142,7 +1161,7 @@
 	<title>Two new PhD Students (Rafael and Daphne)</title>
 	
 	
-  <guid isPermaLink="false">http://masc.cse.ucsc.edu/masc_rss/61</guid>
+  <guid isPermaLink="false">http://masc.cse.ucsc.edu/masc_rss/62</guid>
 	
         
           
@@ -1161,7 +1180,7 @@
 	</description>
 	
 	
-  <guid isPermaLink="false">http://masc.cse.ucsc.edu/masc_rss/62</guid>
+  <guid isPermaLink="false">http://masc.cse.ucsc.edu/masc_rss/63</guid>
 	
         
           
@@ -1180,7 +1199,7 @@
 	</description>
 	
 	
-  <guid isPermaLink="false">http://masc.cse.ucsc.edu/masc_rss/63</guid>
+  <guid isPermaLink="false">http://masc.cse.ucsc.edu/masc_rss/64</guid>
 	
         
           
@@ -1199,7 +1218,7 @@
         
 	<description>Ehsan K.Ardestani, Elnaz Ebrahimi, Gabriel Southern, and Jose Renau, International Symposium on Low Power Electronics and Design (<strong>ISLPED</strong>), August 2012.</description>
 	
-  <guid isPermaLink="false">http://masc.cse.ucsc.edu/masc_rss/64</guid>
+  <guid isPermaLink="false">http://masc.cse.ucsc.edu/masc_rss/65</guid>
 	
         
           
@@ -1218,7 +1237,7 @@
         
 	<description>Ehsan K. Ardestani, Amirkoushyar Ziabari, Ali Shakouri, and Jose Renau, 28th Annual Thermal Measurement, Modeling and Management Symposium (<strong>SEMITHERM</strong>), March 2012.</description>
 	
-  <guid isPermaLink="false">http://masc.cse.ucsc.edu/masc_rss/65</guid>
+  <guid isPermaLink="false">http://masc.cse.ucsc.edu/masc_rss/66</guid>
 	
         
           
@@ -1240,7 +1259,7 @@
 	  ISCA 2012
 	</description>
 	
-  <guid isPermaLink="false">http://masc.cse.ucsc.edu/masc_rss/66</guid>
+  <guid isPermaLink="false">http://masc.cse.ucsc.edu/masc_rss/67</guid>
 	
         
           
@@ -1259,7 +1278,7 @@
         
 	<description>Michael Brown, and Jose Renau, GreenMetrics 2011,held in conjunction SIGMETRICS 2011, June 2011.</description>
 	
-  <guid isPermaLink="false">http://masc.cse.ucsc.edu/masc_rss/67</guid>
+  <guid isPermaLink="false">http://masc.cse.ucsc.edu/masc_rss/68</guid>
 	
         
           
@@ -1281,7 +1300,7 @@
 	  ASPLOS 2012
 	</description>
 	
-  <guid isPermaLink="false">http://masc.cse.ucsc.edu/masc_rss/68</guid>
+  <guid isPermaLink="false">http://masc.cse.ucsc.edu/masc_rss/69</guid>
 	
         
           
@@ -1300,7 +1319,7 @@
 	</description>
 	
 	
-  <guid isPermaLink="false">http://masc.cse.ucsc.edu/masc_rss/69</guid>
+  <guid isPermaLink="false">http://masc.cse.ucsc.edu/masc_rss/70</guid>
 	
         
           
@@ -1319,7 +1338,7 @@
         
 	<description>Sangeetha Sudhakrishnan, Rigo Dicochea, and Jose Renau, International Symposium on Computer Architecture (<strong>ISCA</strong>), June 2011.</description>
 	
-  <guid isPermaLink="false">http://masc.cse.ucsc.edu/masc_rss/70</guid>
+  <guid isPermaLink="false">http://masc.cse.ucsc.edu/masc_rss/71</guid>
 	
         
           
@@ -1341,7 +1360,7 @@
 	  HotCould Workshop
 	</description>
 	
-  <guid isPermaLink="false">http://masc.cse.ucsc.edu/masc_rss/71</guid>
+  <guid isPermaLink="false">http://masc.cse.ucsc.edu/masc_rss/72</guid>
 	
         
           
@@ -1360,7 +1379,7 @@
         
 	<description>Amirkoushyar Ziabari, Ehsan K. Ardestani, Jose Renau, and Ali Shakouri, 27th Annual Thermal Measurement, Modeling and Management Symposium (<strong>SEMITHERM</strong>), March 2011.</description>
 	
-  <guid isPermaLink="false">http://masc.cse.ucsc.edu/masc_rss/72</guid>
+  <guid isPermaLink="false">http://masc.cse.ucsc.edu/masc_rss/73</guid>
 	
         
           
@@ -1379,7 +1398,7 @@
         
 	<description>Sangeetha Sudhakrishnan, Francisco J. Mesa-Martinez, and Jose Renau, IEEE International Symposium on Quality Electronic Design (<strong>ISQED</strong>), March 2011. (<strong>Best  paper award</strong>)</description>
 	
-  <guid isPermaLink="false">http://masc.cse.ucsc.edu/masc_rss/73</guid>
+  <guid isPermaLink="false">http://masc.cse.ucsc.edu/masc_rss/74</guid>
 	
         
           
@@ -1401,7 +1420,7 @@
 	  International Conference on Supercomputing
 	</description>
 	
-  <guid isPermaLink="false">http://masc.cse.ucsc.edu/masc_rss/74</guid>
+  <guid isPermaLink="false">http://masc.cse.ucsc.edu/masc_rss/75</guid>
 	
         
           
@@ -1420,7 +1439,7 @@
 	</description>
 	
 	
-  <guid isPermaLink="false">http://masc.cse.ucsc.edu/masc_rss/75</guid>
+  <guid isPermaLink="false">http://masc.cse.ucsc.edu/masc_rss/76</guid>
 	
         
           
@@ -1442,7 +1461,7 @@
 	  International Symposium on Computer Architecture
 	</description>
 	
-  <guid isPermaLink="false">http://masc.cse.ucsc.edu/masc_rss/76</guid>
+  <guid isPermaLink="false">http://masc.cse.ucsc.edu/masc_rss/77</guid>
 	
         
           
@@ -1464,7 +1483,7 @@
 	  International Symposium on High-Performance Computer Architecture
 	</description>
 	
-  <guid isPermaLink="false">http://masc.cse.ucsc.edu/masc_rss/77</guid>
+  <guid isPermaLink="false">http://masc.cse.ucsc.edu/masc_rss/78</guid>
 	
         
           
@@ -1486,7 +1505,7 @@
 	  International Conference on Archtectural Support for Programing Languages and Operating Systems'
 	</description>
 	
-  <guid isPermaLink="false">http://masc.cse.ucsc.edu/masc_rss/78</guid>
+  <guid isPermaLink="false">http://masc.cse.ucsc.edu/masc_rss/79</guid>
 	
         
           
@@ -1508,7 +1527,7 @@
 	  International Symposium on Microarchitecture
 	</description>
 	
-  <guid isPermaLink="false">http://masc.cse.ucsc.edu/masc_rss/79</guid>
+  <guid isPermaLink="false">http://masc.cse.ucsc.edu/masc_rss/80</guid>
 	
         
           
@@ -1530,7 +1549,7 @@
 	  International Conference on Computer-Aided Design
 	</description>
 	
-  <guid isPermaLink="false">http://masc.cse.ucsc.edu/masc_rss/80</guid>
+  <guid isPermaLink="false">http://masc.cse.ucsc.edu/masc_rss/81</guid>
 	
         
           
@@ -1552,7 +1571,7 @@
 	  International Symposium on Low Power Electronics and Design
 	</description>
 	
-  <guid isPermaLink="false">http://masc.cse.ucsc.edu/masc_rss/81</guid>
+  <guid isPermaLink="false">http://masc.cse.ucsc.edu/masc_rss/82</guid>
 	
         
           
@@ -1574,7 +1593,7 @@
 	  Parallel Architectures and Compilation Technique
 	</description>
 	
-  <guid isPermaLink="false">http://masc.cse.ucsc.edu/masc_rss/82</guid>
+  <guid isPermaLink="false">http://masc.cse.ucsc.edu/masc_rss/83</guid>
 	
         
           
@@ -1596,7 +1615,7 @@
 	  A Symposium on High-Performance Chips
 	</description>
 	
-  <guid isPermaLink="false">http://masc.cse.ucsc.edu/masc_rss/83</guid>
+  <guid isPermaLink="false">http://masc.cse.ucsc.edu/masc_rss/84</guid>
 	
         
           
@@ -1615,7 +1634,7 @@
         
 	<description>Marc Reinig, Donald Gavel, Ehsan Ardestani, Jose Renau, Proceedings of the SPIE, 2010.</description>
 	
-  <guid isPermaLink="false">http://masc.cse.ucsc.edu/masc_rss/84</guid>
+  <guid isPermaLink="false">http://masc.cse.ucsc.edu/masc_rss/85</guid>
 	
         
           
@@ -1634,7 +1653,7 @@
         
 	<description>Francisco J. Mesa-Martinez, Ehsan Ardestani, and Jose Renau, Fifteenth International Conference on Architectural Support for Programming Languages and Operating Systems (<strong>ASPLOS</strong>), March 2010.</description>
 	
-  <guid isPermaLink="false">http://masc.cse.ucsc.edu/masc_rss/85</guid>
+  <guid isPermaLink="false">http://masc.cse.ucsc.edu/masc_rss/86</guid>
 	
         
           
@@ -1653,7 +1672,7 @@
         
 	<description>Ehsan Ardestani, Francisco J. Mesa-Martinez, and Jose Renau, 26th Annual Thermal Measurement, Modeling and Management Symposium (<strong>SEMITHERM</strong>), February 2010.</description>
 	
-  <guid isPermaLink="false">http://masc.cse.ucsc.edu/masc_rss/86</guid>
+  <guid isPermaLink="false">http://masc.cse.ucsc.edu/masc_rss/87</guid>
 	
         
           
@@ -1672,7 +1691,7 @@
         
 	<description>Joseph Nayfach-Battilana and Jose Renau, International Symposium on Low Power Electronics and Design (<strong>ISLPED</strong>), August 2009 (poster  paper).</description>
 	
-  <guid isPermaLink="false">http://masc.cse.ucsc.edu/masc_rss/87</guid>
+  <guid isPermaLink="false">http://masc.cse.ucsc.edu/masc_rss/88</guid>
 	
         
           
@@ -1691,7 +1710,7 @@
         
 	<description>Michael Brown, Cyrus Bazeghi, Matthew R. Gutthaus, and Jose Renau, Workshop on Modeling, Benchmarking and Simulation (<strong>MOBS</strong>), held inconjunction with ISCA-36, June 2009.</description>
 	
-  <guid isPermaLink="false">http://masc.cse.ucsc.edu/masc_rss/88</guid>
+  <guid isPermaLink="false">http://masc.cse.ucsc.edu/masc_rss/89</guid>
 	
         
           
@@ -1707,7 +1726,7 @@
 	<title>New PhD Student (Elnaz Ebrahimi)</title>
 	
 	
-  <guid isPermaLink="false">http://masc.cse.ucsc.edu/masc_rss/89</guid>
+  <guid isPermaLink="false">http://masc.cse.ucsc.edu/masc_rss/90</guid>
 	
         
           
@@ -1726,7 +1745,7 @@
         
 	<description>Michael Brown, Cyrus Bazeghi, Matthew Guthaus and Jose Renau, Poster at the International Symposium on Field-Programmable Gate Arrays (<strong>FPGA</strong>), February 2009.</description>
 	
-  <guid isPermaLink="false">http://masc.cse.ucsc.edu/masc_rss/90</guid>
+  <guid isPermaLink="false">http://masc.cse.ucsc.edu/masc_rss/91</guid>
 	
         
           
@@ -1745,7 +1764,7 @@
 	</description>
 	
 	
-  <guid isPermaLink="false">http://masc.cse.ucsc.edu/masc_rss/91</guid>
+  <guid isPermaLink="false">http://masc.cse.ucsc.edu/masc_rss/92</guid>
 	
         
           
@@ -1764,7 +1783,7 @@
         
 	<description>Sangeetha Sudakrishnan, Janaki T. Madhavan, E. James Whitehead Jr., Jose Renau, Fith International Workshop on Mining Software Repositories, May 2008.</description>
 	
-  <guid isPermaLink="false">http://masc.cse.ucsc.edu/masc_rss/92</guid>
+  <guid isPermaLink="false">http://masc.cse.ucsc.edu/masc_rss/93</guid>
 	
         
           
@@ -1783,7 +1802,7 @@
         
 	<description>Wael Ali Ashmawi, John Burr, Abhishek Sharma, Jose Renau, Workshop on Architectural Research Prototyping (<strong>WARP</strong>), held inconjunction with ISCA-35, June 2008.</description>
 	
-  <guid isPermaLink="false">http://masc.cse.ucsc.edu/masc_rss/93</guid>
+  <guid isPermaLink="false">http://masc.cse.ucsc.edu/masc_rss/94</guid>
 	
         
           
@@ -1802,7 +1821,7 @@
 	</description>
 	
 	
-  <guid isPermaLink="false">http://masc.cse.ucsc.edu/masc_rss/94</guid>
+  <guid isPermaLink="false">http://masc.cse.ucsc.edu/masc_rss/95</guid>
 	
         
           
@@ -1821,7 +1840,7 @@
 	</description>
 	
 	
-  <guid isPermaLink="false">http://masc.cse.ucsc.edu/masc_rss/95</guid>
+  <guid isPermaLink="false">http://masc.cse.ucsc.edu/masc_rss/96</guid>
 	
         
           
@@ -1843,7 +1862,7 @@
 	  International Workshop on Thermal inverstigations of ICs and Systems
 	</description>
 	
-  <guid isPermaLink="false">http://masc.cse.ucsc.edu/masc_rss/96</guid>
+  <guid isPermaLink="false">http://masc.cse.ucsc.edu/masc_rss/97</guid>
 	
         
           
@@ -1865,7 +1884,7 @@
 	  International Conference on Computer-Aided Design
 	</description>
 	
-  <guid isPermaLink="false">http://masc.cse.ucsc.edu/masc_rss/97</guid>
+  <guid isPermaLink="false">http://masc.cse.ucsc.edu/masc_rss/98</guid>
 	
         
           
@@ -1884,7 +1903,7 @@
 	</description>
 	
 	
-  <guid isPermaLink="false">http://masc.cse.ucsc.edu/masc_rss/98</guid>
+  <guid isPermaLink="false">http://masc.cse.ucsc.edu/masc_rss/99</guid>
 	
         
           
@@ -1903,7 +1922,7 @@
 	</description>
 	
 	
-  <guid isPermaLink="false">http://masc.cse.ucsc.edu/masc_rss/99</guid>
+  <guid isPermaLink="false">http://masc.cse.ucsc.edu/masc_rss/100</guid>
 	
         
           
@@ -1922,7 +1941,7 @@
         
 	<description>Francisco-Javier Mesa-Martinez, Michael Brown, Joseph Nayfach-Battilana, Jose Renau, The Next Generation Software (NGS) Workshop (<b>NGS08</b>) held in conjunction with IPDPS, April 2008.</description>
 	
-  <guid isPermaLink="false">http://masc.cse.ucsc.edu/masc_rss/100</guid>
+  <guid isPermaLink="false">http://masc.cse.ucsc.edu/masc_rss/101</guid>
 	
         
           
@@ -1939,7 +1958,7 @@
         
 	<description>uDSim, a Microprocessor Design Time Simulation Infrastructure. Sangeetha Sudhakrishnan, Francisco-Javier Mesa-Martinez, Jose Renau, Wild and Crazy Ideas VI (<b>WACI</b>) held in conjunction with ASPLOS, March 2008.</description>
 	
-  <guid isPermaLink="false">http://masc.cse.ucsc.edu/masc_rss/101</guid>
+  <guid isPermaLink="false">http://masc.cse.ucsc.edu/masc_rss/102</guid>
 	
         
           
@@ -1958,7 +1977,7 @@
         
 	<description>Sangeetha Sudhakrishnan, Liying Su, and Jose Renau, IEEE International Symposium on Quality Electronic Design (<strong>ISQED</strong>), March 2008.</description>
 	
-  <guid isPermaLink="false">http://masc.cse.ucsc.edu/masc_rss/102</guid>
+  <guid isPermaLink="false">http://masc.cse.ucsc.edu/masc_rss/103</guid>
 	
         
           
@@ -1975,7 +1994,7 @@
         
 	<description>System and Processor Design Effort Estimation, Cyrus Bazeghi, Francisco J. Mesa-Martinez, and Jose Renau, Springer Research Trends in VLSI and Systems on Chip.</description>
 	
-  <guid isPermaLink="false">http://masc.cse.ucsc.edu/masc_rss/103</guid>
+  <guid isPermaLink="false">http://masc.cse.ucsc.edu/masc_rss/104</guid>
 	
         
           
@@ -1994,7 +2013,7 @@
 	</description>
 	
 	
-  <guid isPermaLink="false">http://masc.cse.ucsc.edu/masc_rss/104</guid>
+  <guid isPermaLink="false">http://masc.cse.ucsc.edu/masc_rss/105</guid>
 	
         
           
@@ -2013,7 +2032,7 @@
 	</description>
 	
 	
-  <guid isPermaLink="false">http://masc.cse.ucsc.edu/masc_rss/105</guid>
+  <guid isPermaLink="false">http://masc.cse.ucsc.edu/masc_rss/106</guid>
 	
         
           
@@ -2035,7 +2054,7 @@
 	  Parallel Architectures and Compilation Techniques (PACT)
 	</description>
 	
-  <guid isPermaLink="false">http://masc.cse.ucsc.edu/masc_rss/106</guid>
+  <guid isPermaLink="false">http://masc.cse.ucsc.edu/masc_rss/107</guid>
 	
         
           
@@ -2051,7 +2070,7 @@
 	<title>New BLOG for the MASC group</title>
 	
 	
-  <guid isPermaLink="false">http://masc.cse.ucsc.edu/masc_rss/107</guid>
+  <guid isPermaLink="false">http://masc.cse.ucsc.edu/masc_rss/108</guid>
 	
         
           
@@ -2070,7 +2089,7 @@
         
 	<description>Francisco J. Mesa-Martinez and Jose Renau, 40th International Symposium on Microarchitecture (<strong>MICRO</strong>), December 2007.</description>
 	
-  <guid isPermaLink="false">http://masc.cse.ucsc.edu/masc_rss/108</guid>
+  <guid isPermaLink="false">http://masc.cse.ucsc.edu/masc_rss/109</guid>
 	
         
           
@@ -2089,7 +2108,7 @@
         
 	<description>Cyrus Bazeghi, Francisco J. Mesa-Martinez, Brian Greskamp, Josep Torrellas, and Jose Renau, 15th IFIP International Conference on Very Large Scale Integration (<strong>VLSI-SoC</strong>), October 2007.</description>
 	
-  <guid isPermaLink="false">http://masc.cse.ucsc.edu/masc_rss/109</guid>
+  <guid isPermaLink="false">http://masc.cse.ucsc.edu/masc_rss/110</guid>
 	
         
           
@@ -2108,7 +2127,7 @@
 	</description>
 	
 	
-  <guid isPermaLink="false">http://masc.cse.ucsc.edu/masc_rss/110</guid>
+  <guid isPermaLink="false">http://masc.cse.ucsc.edu/masc_rss/111</guid>
 	
         
           
@@ -2130,7 +2149,7 @@
 	  First-tier conference on computer architecture. This year, it is held on <strong>China</strong>.
 	</description>
 	
-  <guid isPermaLink="false">http://masc.cse.ucsc.edu/masc_rss/111</guid>
+  <guid isPermaLink="false">http://masc.cse.ucsc.edu/masc_rss/112</guid>
 	
         
           
@@ -2149,7 +2168,7 @@
 	</description>
 	
 	
-  <guid isPermaLink="false">http://masc.cse.ucsc.edu/masc_rss/112</guid>
+  <guid isPermaLink="false">http://masc.cse.ucsc.edu/masc_rss/113</guid>
 	
         
           
@@ -2168,7 +2187,7 @@
 	</description>
 	
 	
-  <guid isPermaLink="false">http://masc.cse.ucsc.edu/masc_rss/113</guid>
+  <guid isPermaLink="false">http://masc.cse.ucsc.edu/masc_rss/114</guid>
 	
         
           
@@ -2187,7 +2206,7 @@
         
 	<description>Francisco J. Mesa-Martinez, Joseph Nayfach-Battilan, and Jose Renau, International Symposium on Computer Architecture (<strong>ISCA</strong>), June 2007.</description>
 	
-  <guid isPermaLink="false">http://masc.cse.ucsc.edu/masc_rss/114</guid>
+  <guid isPermaLink="false">http://masc.cse.ucsc.edu/masc_rss/115</guid>
 	
         
           
@@ -2206,7 +2225,7 @@
         
 	<description>Francisco J. Mesa-Martinez, Michael Brown, Joseph Nayfach-Battilana, and Jose Renau, 1st Workshop on Experimental Computer Science (FCRC), June 2007.</description>
 	
-  <guid isPermaLink="false">http://masc.cse.ucsc.edu/masc_rss/115</guid>
+  <guid isPermaLink="false">http://masc.cse.ucsc.edu/masc_rss/116</guid>
 	
         
           
@@ -2225,7 +2244,7 @@
 	</description>
 	
 	
-  <guid isPermaLink="false">http://masc.cse.ucsc.edu/masc_rss/116</guid>
+  <guid isPermaLink="false">http://masc.cse.ucsc.edu/masc_rss/117</guid>
 	
         
           
@@ -2244,7 +2263,7 @@
 	</description>
 	
 	
-  <guid isPermaLink="false">http://masc.cse.ucsc.edu/masc_rss/117</guid>
+  <guid isPermaLink="false">http://masc.cse.ucsc.edu/masc_rss/118</guid>
 	
         
           
@@ -2263,7 +2282,7 @@
         
 	<description>Francisco J. Mesa-Martinez, Michael C.Huang, and Jose Renau, 15th  International Conference on Parallel Architectures and Compilation Techniques (<strong>PACT</strong>), September 2006.</description>
 	
-  <guid isPermaLink="false">http://masc.cse.ucsc.edu/masc_rss/118</guid>
+  <guid isPermaLink="false">http://masc.cse.ucsc.edu/masc_rss/119</guid>
 	
         
           
@@ -2282,7 +2301,7 @@
         
 	<description>Cyrus  Bazeghi  and  Jose Renau,  7th  Workshop  on Complexity-Effective Design (<strong>WCED</strong>),  held in conjunction with ISCA-33, June 2006.</description>
 	
-  <guid isPermaLink="false">http://masc.cse.ucsc.edu/masc_rss/119</guid>
+  <guid isPermaLink="false">http://masc.cse.ucsc.edu/masc_rss/120</guid>
 	
         
           
@@ -2301,7 +2320,7 @@
         
 	<description>Francisco J.  Mesa-Martinez, Abhishek Sharma, Andrew W.  Hill, Carlos A.  Cabrera, Cyrus Bazeghi, Hari Kolakaleti, Joseph Nayfach, Keertika Singh, Kevin S. Halle, Matthew D. Fischler, Melisa Nuñez, Sangeetha Nair, Suraj Narender Kurapati, Wael Ali Ashmawi, and Jose Renau , Workshop on Architectural Research Prototyping (<strong>WARP</strong>), held inconjunction with ISCA-33, June 2006.</description>
 	
-  <guid isPermaLink="false">http://masc.cse.ucsc.edu/masc_rss/120</guid>
+  <guid isPermaLink="false">http://masc.cse.ucsc.edu/masc_rss/121</guid>
 	
         
           
@@ -2320,7 +2339,7 @@
 	</description>
 	
 	
-  <guid isPermaLink="false">http://masc.cse.ucsc.edu/masc_rss/121</guid>
+  <guid isPermaLink="false">http://masc.cse.ucsc.edu/masc_rss/122</guid>
 	
         
           
@@ -2339,7 +2358,7 @@
         
 	<description>Luis Ceze, Karin Strauss, James Tuck, Jose Renau, and Josep Torrellas, ACM's Transactions on Architecture and Code Optimization (<strong>TACO</strong>), March 2006.</description>
 	
-  <guid isPermaLink="false">http://masc.cse.ucsc.edu/masc_rss/122</guid>
+  <guid isPermaLink="false">http://masc.cse.ucsc.edu/masc_rss/123</guid>
 	
         
           
@@ -2358,7 +2377,7 @@
         
 	<description>Wei Liu, James Tuck, Luis Ceze, Wonsun Ahn, Karin Strauss, Jose Renau and Josep Torrellas, ACM SIGPLAN Symposium on Principles and Practice of Parallel Programming (<strong>PPoPP</strong>), March 2006.</description>
 	
-  <guid isPermaLink="false">http://masc.cse.ucsc.edu/masc_rss/123</guid>
+  <guid isPermaLink="false">http://masc.cse.ucsc.edu/masc_rss/124</guid>
 	
         
           
@@ -2377,7 +2396,7 @@
 	</description>
 	
 	
-  <guid isPermaLink="false">http://masc.cse.ucsc.edu/masc_rss/124</guid>
+  <guid isPermaLink="false">http://masc.cse.ucsc.edu/masc_rss/125</guid>
 	
         
           
@@ -2396,7 +2415,7 @@
 	</description>
 	
 	
-  <guid isPermaLink="false">http://masc.cse.ucsc.edu/masc_rss/125</guid>
+  <guid isPermaLink="false">http://masc.cse.ucsc.edu/masc_rss/126</guid>
 	
         
           
@@ -2415,7 +2434,7 @@
 	</description>
 	
 	
-  <guid isPermaLink="false">http://masc.cse.ucsc.edu/masc_rss/126</guid>
+  <guid isPermaLink="false">http://masc.cse.ucsc.edu/masc_rss/127</guid>
 	
         
           
@@ -2434,7 +2453,7 @@
         
 	<description>Jose Renau, Karin Strauss, Luis Ceze, Wei Liu, Smruti Sarangi, James Tuck, and Josep Torrellas, IEEE Micro Special Issue <strong>Micro's Top Picks</strong> from Computer Architecture Conferences, January-February 2006.</description>
 	
-  <guid isPermaLink="false">http://masc.cse.ucsc.edu/masc_rss/127</guid>
+  <guid isPermaLink="false">http://masc.cse.ucsc.edu/masc_rss/128</guid>
 	
         
           
@@ -2453,7 +2472,7 @@
         
 	<description>Cyrus Bazeghi, Francisco J. Mesa-Martinez, and Jose Renau. 38th International Symposium on Microarchitecture (<strong>MICRO</strong>), November 2005.</description>
 	
-  <guid isPermaLink="false">http://masc.cse.ucsc.edu/masc_rss/128</guid>
+  <guid isPermaLink="false">http://masc.cse.ucsc.edu/masc_rss/129</guid>
 	
         
           
@@ -2472,7 +2491,7 @@
 	</description>
 	
 	
-  <guid isPermaLink="false">http://masc.cse.ucsc.edu/masc_rss/129</guid>
+  <guid isPermaLink="false">http://masc.cse.ucsc.edu/masc_rss/130</guid>
 	
         
           
@@ -2491,7 +2510,7 @@
 	</description>
 	
 	
-  <guid isPermaLink="false">http://masc.cse.ucsc.edu/masc_rss/130</guid>
+  <guid isPermaLink="false">http://masc.cse.ucsc.edu/masc_rss/131</guid>
 	
         
           
@@ -2510,7 +2529,7 @@
         
 	<description>Wei Liu, James Tuck, Luis Ceze, Karin Strauss, Jose Renau, and Josep Torrellas. The Second Watson Conference on Interaction between Architecture, Circuits, and Compilers (<strong>P=AC2</strong>), September 2005.</description>
 	
-  <guid isPermaLink="false">http://masc.cse.ucsc.edu/masc_rss/131</guid>
+  <guid isPermaLink="false">http://masc.cse.ucsc.edu/masc_rss/132</guid>
 	
         
           
@@ -2529,7 +2548,7 @@
         
 	<description>Jose Renau, Karin Strauss, Luis Ceze, Wei Liu, Smruti Sarangi, James Tuck, and Josep Torrellas. International Conference on Supercomputing (<strong>ICS</strong>), June 2005.</description>
 	
-  <guid isPermaLink="false">http://masc.cse.ucsc.edu/masc_rss/132</guid>
+  <guid isPermaLink="false">http://masc.cse.ucsc.edu/masc_rss/133</guid>
 	
         
           
@@ -2548,7 +2567,7 @@
         
 	<description>Jose Renau, James Tuck, Wei Liu, Luis Ceze, Karin Strauss, and Josep Torrellas. International Conference on Supercomputing (<strong>ICS</strong>), June 2005.</description>
 	
-  <guid isPermaLink="false">http://masc.cse.ucsc.edu/masc_rss/133</guid>
+  <guid isPermaLink="false">http://masc.cse.ucsc.edu/masc_rss/134</guid>
 	
         
           
@@ -2567,7 +2586,7 @@
 	</description>
 	
 	
-  <guid isPermaLink="false">http://masc.cse.ucsc.edu/masc_rss/134</guid>
+  <guid isPermaLink="false">http://masc.cse.ucsc.edu/masc_rss/135</guid>
 	
         
           
@@ -2586,7 +2605,7 @@
         
 	<description>Luis Ceze, Karin Strauss, James Tuck, Jose Renau, and Josep Torrellas, IEEE TCCA Computer Architecture Letters (<strong>TCCA</strong>), Dec 2004.</description>
 	
-  <guid isPermaLink="false">http://masc.cse.ucsc.edu/masc_rss/135</guid>
+  <guid isPermaLink="false">http://masc.cse.ucsc.edu/masc_rss/136</guid>
 	
         
           
@@ -2605,7 +2624,7 @@
 	</description>
 	
 	
-  <guid isPermaLink="false">http://masc.cse.ucsc.edu/masc_rss/136</guid>
+  <guid isPermaLink="false">http://masc.cse.ucsc.edu/masc_rss/137</guid>
 	
         
           
@@ -2624,7 +2643,7 @@
 	</description>
 	
 	
-  <guid isPermaLink="false">http://masc.cse.ucsc.edu/masc_rss/137</guid>
+  <guid isPermaLink="false">http://masc.cse.ucsc.edu/masc_rss/138</guid>
 	
         
           
@@ -2643,7 +2662,7 @@
         
 	<description>Michael Huang, Jose Renau and Josep Torrellas, Sidebar on Special Issue on Power-Aware Computing, (<strong>IEEE Computer</strong>), December 2003.</description>
 	
-  <guid isPermaLink="false">http://masc.cse.ucsc.edu/masc_rss/138</guid>
+  <guid isPermaLink="false">http://masc.cse.ucsc.edu/masc_rss/139</guid>
 	
         
           
@@ -2662,7 +2681,7 @@
         
 	<description>Michael Huang, Jose Renau, and Josep Torrellas, International Symposium on Computer Architecture (<strong>ISCA</strong>), June 2003.</description>
 	
-  <guid isPermaLink="false">http://masc.cse.ucsc.edu/masc_rss/139</guid>
+  <guid isPermaLink="false">http://masc.cse.ucsc.edu/masc_rss/140</guid>
 	
         
           
@@ -2681,7 +2700,7 @@
         
 	<description>Basilio B. Fraguela, Jose Renau, Paul Feautrier, David Padua, and Josep Torrellas, Symposium on Principles and Practice of Parallel Programming (<strong>PPoPP</strong>), June 2003.</description>
 	
-  <guid isPermaLink="false">http://masc.cse.ucsc.edu/masc_rss/140</guid>
+  <guid isPermaLink="false">http://masc.cse.ucsc.edu/masc_rss/141</guid>
 	
         
           
@@ -2700,7 +2719,7 @@
         
 	<description>Jose F. Martinez (Cornell University), Jose Renau (University of Illinois), Michael Huang (University of Rochester), Milos Prvulovic, and Josep Torrellas (University of Illinois), 35th International Symposium on Microarchitecture (<strong>MICRO</strong>), November 2002.</description>
 	
-  <guid isPermaLink="false">http://masc.cse.ucsc.edu/masc_rss/141</guid>
+  <guid isPermaLink="false">http://masc.cse.ucsc.edu/masc_rss/142</guid>
 	
         
           
@@ -2719,7 +2738,7 @@
         
 	<description>Michael Huang, Jose Renau, and Josep Torrellas, International Symposium on Low Power Electronics and Design (<strong>ISLPED</strong>), August 2002.</description>
 	
-  <guid isPermaLink="false">http://masc.cse.ucsc.edu/masc_rss/142</guid>
+  <guid isPermaLink="false">http://masc.cse.ucsc.edu/masc_rss/143</guid>
 	
         
           
@@ -2738,7 +2757,7 @@
         
 	<description>Michael Huang, Jose Renau, and Josep Torrellas Journal on Instruction Level Parallelism (<strong>JILP</strong>), 2002.</description>
 	
-  <guid isPermaLink="false">http://masc.cse.ucsc.edu/masc_rss/143</guid>
+  <guid isPermaLink="false">http://masc.cse.ucsc.edu/masc_rss/144</guid>
 	
         
           
@@ -2757,7 +2776,7 @@
         
 	<description>Wei Huang, Jose Renau, and Josep Torrellas, 4th ACM Workshop on Feedback-Directed and Dynamic Optimization, December 2001.</description>
 	
-  <guid isPermaLink="false">http://masc.cse.ucsc.edu/masc_rss/144</guid>
+  <guid isPermaLink="false">http://masc.cse.ucsc.edu/masc_rss/145</guid>
 	
         
           
@@ -2776,7 +2795,7 @@
         
 	<description>Wei Huang, Jose Renau, Seung-Moon Yoo, and Josep Torrellas, 2nd Workshop on Intelligent Memory Systems, November 2000, Lecture Notes in Computer Science(Vol.  2107) by Springer-Verlag, 2001.</description>
 	
-  <guid isPermaLink="false">http://masc.cse.ucsc.edu/masc_rss/145</guid>
+  <guid isPermaLink="false">http://masc.cse.ucsc.edu/masc_rss/146</guid>
 	
         
           
@@ -2795,7 +2814,7 @@
         
 	<description>Michael Huang, Jose Renau, Seung-Moon Yoo, and Josep Torrellas , International Symposium on Low Power Electronics and Design (<strong>ISLPED</strong>), August 2001.</description>
 	
-  <guid isPermaLink="false">http://masc.cse.ucsc.edu/masc_rss/146</guid>
+  <guid isPermaLink="false">http://masc.cse.ucsc.edu/masc_rss/147</guid>
 	
         
           
@@ -2814,7 +2833,7 @@
         
 	<description>Michael Huang, Jose Renau, Seung-Moon Yoo, and Josep Torrellas, 33rd International Symposium on Microarchitecture (<strong>MICRO</strong>), December 2000.</description>
 	
-  <guid isPermaLink="false">http://masc.cse.ucsc.edu/masc_rss/147</guid>
+  <guid isPermaLink="false">http://masc.cse.ucsc.edu/masc_rss/148</guid>
 	
         
           
@@ -2833,7 +2852,7 @@
         
 	<description>Wei Huang, Jose Renau, Seung-Moon Yoo, and Josep Torrellas, Ninth Workshop on Scalable Shared Memory Multiprocessors, June, 2000.</description>
 	
-  <guid isPermaLink="false">http://masc.cse.ucsc.edu/masc_rss/148</guid>
+  <guid isPermaLink="false">http://masc.cse.ucsc.edu/masc_rss/149</guid>
 	
         
           
